@@ -1,41 +1,221 @@
 {
-  "generated_at": "2026年09月29日 15:10",
+  "generated_at": "2026年09月29日 18:09",
   "items": [
     {
+      "source": "Yahoo!ニュース 国内",
+      "title": "茂木氏 旧敵国条項巡り中国けん制",
+      "link": "https://news.yahoo.co.jp/pickup/6596972?source=rss",
+      "summary": "",
+      "date": "2026-09-29T17:57:23+09:00",
+      "date_display": "2026/09/29 17:57",
+      "sort_key": 1790672243.0
+    },
+    {
       "source": "Google ニュース検索:知事",
-      "title": "玉城デニー知事が退任 「職員と仕事できたことが幸せ」 職員、市民に見送られ、県庁を後に - 琉球新報デジタル",
+      "title": "被災で不通続くJR米坂線 花角知事「沿線自治体の意向尊重」 バス転換 “容認” の声を受け 新潟県議会 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MdC01Z19BZTBoZDFhUi1BdE5tU25TOFVjbEl3UVBWMGtRNzF1S0hNODJBeHkyM2JYdUphY3pDaC1PRGNiamNBY015X0hXQThqWHUxdHBOdw?oc=5",
+      "summary": "被災で不通続くJR米坂線 花角知事「沿線自治体の意向尊重」 バス転換 “容認” の声を受け 新潟県議会  TBS NEWS DIG",
+      "date": "2026-09-29T17:19:00+09:00",
+      "date_display": "2026/09/29 17:19",
+      "sort_key": 1790669940.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "沖縄県の玉城デニー知事が退任 「県職員と仕事ができ幸せ」 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fN3hJX0RJNlZsVWlDakhzN1U0ak5MQ2JTa21Ba1BjVWg3Z1oxal9QNzJ3NldRdFFLaXRnWW1UcVYtMkh4VUstTnhBdzJIQkJDWmh0MkYyY0RoMGROOU9EQk1rYU8yT3VuZmVzRQ?oc=5",
+      "summary": "沖縄県の玉城デニー知事が退任 「県職員と仕事ができ幸せ」  日本経済新聞",
+      "date": "2026-09-29T17:03:52+09:00",
+      "date_display": "2026/09/29 17:03",
+      "sort_key": 1790669032.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "画像・写真：山中前市長、再出馬表明 横浜市長選：時事ドットコム - jiji.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03X0tULW9FSE5LR1RpeWtMLVBBX1BBc1JFQ1hqSWViVC1KeWZBeW1wdWRnMTV1RlpkMjhmWFpscjI1MDg2OVVidTRCa1Nka3lWVHBTRU1BUXRqM3JKa3J2aWNUTng?oc=5",
+      "summary": "画像・写真：山中前市長、再出馬表明 横浜市長選：時事ドットコム  jiji.com",
+      "date": "2026-09-29T17:03:14+09:00",
+      "date_display": "2026/09/29 17:03",
+      "sort_key": 1790668994.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "第16期国会第2会期を前に、ニンビン省選出の国会議員とイェンモー村の有権者との会合が行われた。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmFZOW1qRGNsYl9LSnVWRlF1dzJWSkpPQXB1UkMyVkMtdTZSWUNNOEN5X21laG14QUhKeDdSUlUyNy1IOTB3OVdqa1hZd0pQVWxQOE5NOGtmM3dPdG1JZHE1Wnl2UnhSSnAwTGFHYW9MX3FIMm5OVElPa3JVMjNUTVk3UUhBMHlXbDBjTEk1SU1FdkhITlNwNjlWU0tkaXpaVm9BSDVqMjlrRmRYSjR6R0NKR0RjNkY0eGRBM1JRMGE1Z2V5MHNIU2RhdzdCaFJBbGo4NDRycU9oWjZCRmhn?oc=5",
+      "summary": "第16期国会第2会期を前に、ニンビン省選出の国会議員とイェンモー村の有権者との会合が行われた。  Vietnam.vn",
+      "date": "2026-09-29T17:01:56+09:00",
+      "date_display": "2026/09/29 17:01",
+      "sort_key": 1790668916.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "沖縄県の玉城デニー知事が退任 基地問題は「仕事の7割近く占めた」（朝日新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04elUtLVpiUk1KWGUwZzVWcTg3ckg2VjJUMl9yNGxQa3VFQWlnZnlWNF9aWHFYOERhMnhFRVduTWJNNDBYS0JDLXNNaGVLc3NfQ2hRS1NLTGNLa01xUGd5SGhDVW54aXlSSWdrang5bnZHQUk1Zmc4UkZ0dDBhYlE?oc=5",
+      "summary": "沖縄県の玉城デニー知事が退任 基地問題は「仕事の7割近く占めた」（朝日新聞）  Yahoo!ニュース",
+      "date": "2026-09-29T17:00:00+09:00",
+      "date_display": "2026/09/29 17:00",
+      "sort_key": 1790668800.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "沖縄県の玉城デニー知事が退任 基地問題は「仕事の7割近く占めた」 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMVlYYnZVUnZhdTJsUG9PTXE2VENWeGJSdVZudzFoUjJSSXlqM0c2NDhlbmVFMEtKWXdXNGlPLV9qeS12a2x6S1Bwa1c5V1ZXVlRtYTJVamVBWVNHUXoyZ0txZ1laSzg?oc=5",
+      "summary": "沖縄県の玉城デニー知事が退任 基地問題は「仕事の7割近く占めた」  朝日新聞",
+      "date": "2026-09-29T17:00:00+09:00",
+      "date_display": "2026/09/29 17:00",
+      "sort_key": 1790668800.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "【ライブ予定】古謝玄太 新沖縄県知事が就任会見 県政史上最年少の知事誕生 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZDByRnVURnNRQ2pWbG1sa1h6SGYxU21heWZFUFdSWWJXMEZfaDIweGpwVUpNNUp4WDhLalFNZWR5Y2ZrOHFEbElkTTdhSFotOHFwUE13LVVlN3ZCdmx2Z3NJekE?oc=5",
+      "summary": "【ライブ予定】古謝玄太 新沖縄県知事が就任会見 県政史上最年少の知事誕生  TBS NEWS DIG",
+      "date": "2026-09-29T16:40:00+09:00",
+      "date_display": "2026/09/29 16:40",
+      "sort_key": 1790667600.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "【ライブ予定】古謝玄太 新沖縄県知事が就任会見 県政史上最年少の知事誕生 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HaVZ6T211MDZETV95Z0piNUQyNGNGZGVuXzRIVG5ySzExRFlxSW82WVBrOUtkdjVCODBsRk1ZNjlhN3d2TU5hQUF1LWU0N2Z5d2gwZlRQTVIzNlN5VE5XakpWVkNxVTQ?oc=5",
+      "summary": "【ライブ予定】古謝玄太 新沖縄県知事が就任会見 県政史上最年少の知事誕生  TBS NEWS DIG",
+      "date": "2026-09-29T16:40:00+09:00",
+      "date_display": "2026/09/29 16:40",
+      "sort_key": 1790667600.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "沖縄県・玉城デニー知事が退任 2期8年終え 辺野古移設に疑問投げかけ（2026年9月29日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55VjdBR2I0UFlPdU9jbjBzeHVjMFpRZnJsZkRHRHZLbnZJa0IzQVR1T2loTE1MdGJBcDBUajNkT1pzV0Y1bWZfX3ZyeGhLbXZPUmdYWmowUnNPRzJrWWl5ZU9TY1RNbF82dVRtUDV6SXpmVnhZc0Vwa1hCRlc?oc=5",
+      "summary": "沖縄県・玉城デニー知事が退任 2期8年終え 辺野古移設に疑問投げかけ（2026年9月29日掲載）｜日テレNEWS NNN  日テレNEWS NNN",
+      "date": "2026-09-29T16:38:00+09:00",
+      "date_display": "2026/09/29 16:38",
+      "sort_key": 1790667480.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "花角知事 ＪＲ米坂線の復旧 バスを有力な選択肢として協議へ - news.web.nhk",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OcWdVM0dRTmhjZkJiM0hObEpfRnU2VlNfRFNWWE1JRG1BUWhrdXZNZTgxVHF3eUF5aWlveUtldnljNUpUc1ozVVpxY0JTNkZ6ellMc1ZYMko?oc=5",
+      "summary": "花角知事 ＪＲ米坂線の復旧 バスを有力な選択肢として協議へ  news.web.nhk",
+      "date": "2026-09-29T16:35:00+09:00",
+      "date_display": "2026/09/29 16:35",
+      "sort_key": 1790667300.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "愛媛県知事選は３つどもえの戦いに？自民県連らから出馬要請受ける現職・県政刷新掲げる新人２氏…「ダブル選」松山市も８年ぶり選挙戦の見通し（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMLU1WX1ppYW1XVTY1QWo1M2wtQWpJUzBJc1RpZUR3SXVZSE9vdElBaDkzQnpmR1hfdEtobXo1VFoxZzE0MElaQnR1ZWFGZ1FaZ2x0Y0h0R2FKajVjYjdPaExUWWk4Y3UtWDIwQTNtX1RIaWk5M2JJOWNKWGZqVk0?oc=5",
+      "summary": "愛媛県知事選は３つどもえの戦いに？自民県連らから出馬要請受ける現職・県政刷新掲げる新人２氏…「ダブル選」松山市も８年ぶり選挙戦の見通し（読売新聞オンライン）  Yahoo!ニュース",
+      "date": "2026-09-29T16:35:00+09:00",
+      "date_display": "2026/09/29 16:35",
+      "sort_key": 1790667300.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "玉城デニー沖縄県知事が退任 2期8年 [写真特集1/13] - mainichi.jp",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEVKWDNrUndTdEtVLW5aR19DSlkxRV9GLXhXQ0l4Tll1M2NPZzVjN2pfRkdycHdnX3dtSEdLWmdYaEhBOUJqbENXSlBvTTE2LWpObF9nbDJsVTkxWVpST1FIM2MySGstbHZ3V01hMG9vR0drZlE2dWM2MEhjRUpXWnh4X2dEU0k?oc=5",
+      "summary": "玉城デニー沖縄県知事が退任 2期8年 [写真特集1/13]  mainichi.jp",
+      "date": "2026-09-29T16:25:37+09:00",
+      "date_display": "2026/09/29 16:25",
+      "sort_key": 1790666737.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "沖縄・玉城知事 退任会見「自分ごととして考えてほしい」普天間基地の辺野古移設をめぐる国の姿勢について 2期8年の任期を終え… - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qUGxMLWFrQTM3OGwzR1hqQ3lwMEdXam5maUFXTmtGeU94c1p1RmIxMGd1NjJHeEJBOTA2WUE5bmd4R29iOTNLQzVMVklTT2Q1YTdqSWxiTQ?oc=5",
+      "summary": "沖縄・玉城知事 退任会見「自分ごととして考えてほしい」普天間基地の辺野古移設をめぐる国の姿勢について 2期8年の任期を終え…  TBS NEWS DIG",
+      "date": "2026-09-29T16:25:32+09:00",
+      "date_display": "2026/09/29 16:25",
+      "sort_key": 1790666732.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "福島県知事等との面会 - 首相官邸",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1NnVNTnRhc2VoZElJTS12MEhNOGswSGhaUFVGZ0Mza0pLdnVCUmhrTG9PUmlHLXpBWXVGV2dJQ1NIM1lJSDNVVFpVQ0g5bzMwbmlZWGFpc0Rpb1VMZmJuSjFUbmI0dF9GT0NEVw?oc=5",
+      "summary": "福島県知事等との面会  首相官邸",
+      "date": "2026-09-29T16:04:46+09:00",
+      "date_display": "2026/09/29 16:04",
+      "sort_key": 1790665486.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "【写真・動画特集】玉城デニー知事、8年間の県政に幕 拍手と指笛の中「マジュン、チバティイチャビラヤーサイ」 職員らに最後のあいさつ - 沖縄タイムス社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93bGQ2V2hkLTd5RnlwMExfNnFRcXRlS1pmX2FGYzIyOHF6RlgydUhTQTVkbUZJQ09UNlVRd01QZU40dDZITUthVDFzQmhnODFMQjlycVhhbHVJckx6V3c?oc=5",
+      "summary": "【写真・動画特集】玉城デニー知事、8年間の県政に幕 拍手と指笛の中「マジュン、チバティイチャビラヤーサイ」 職員らに最後のあいさつ  沖縄タイムス社",
+      "date": "2026-09-29T16:03:00+09:00",
+      "date_display": "2026/09/29 16:03",
+      "sort_key": 1790665380.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "山中前市長、再出馬を表明 「政策やり遂げる責任」強調―新人５人が立候補意向の横浜市長選：時事ドットコム - jiji.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWcUxlbUNmYzF6R1NuYnd6LWdPVTJtcDZUWkpLNUc0a01oSVlGaE9LME5PVDVTT2FQOFVGWm9wbWUzZnBCYmw0UGFRNHFNMWdlVWNOUFBCejBLdlpfOWVPZFBiOA?oc=5",
+      "summary": "山中前市長、再出馬を表明 「政策やり遂げる責任」強調―新人５人が立候補意向の横浜市長選：時事ドットコム  jiji.com",
+      "date": "2026-09-29T15:37:00+09:00",
+      "date_display": "2026/09/29 15:37",
+      "sort_key": 1790663820.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "＜はりまの秋祭り＞カレンダー 三木市 - 神戸新聞",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nR3BHNVFsb1dUWWVZT043WGxDSlRHRldWQmUyUXRKN0hNbi1hc3N4a2tudV91ZmpDRi1MbmU0cWdYZVFNSzJTRHMwdzF4ZWVWNjM0d0EzWFZaaDJWbjZwS2pkcU5QV3lnRnZF?oc=5",
+      "summary": "＜はりまの秋祭り＞カレンダー 三木市  神戸新聞",
+      "date": "2026-09-29T15:37:00+09:00",
+      "date_display": "2026/09/29 15:37",
+      "sort_key": 1790663820.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "沖縄・玉城デニー知事が退任「辺野古こそ民主主義の問題」 「オール沖縄」県政終焉迎える - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZGV5a2g0QTJRT0FoWl9nUzFiWXA5clFpS05JUnowS0dVN2YyNVNmTjBrSU9NTzdNMnpOdzlDTWREWFhOVzR6d1AtN2VDa3NyTTRRUG9fcVEtVUEzcU5Ddnd4U0ExYndKU1hwTDNJckcxdjlCVUE?oc=5",
+      "summary": "沖縄・玉城デニー知事が退任「辺野古こそ民主主義の問題」 「オール沖縄」県政終焉迎える  産経ニュース",
+      "date": "2026-09-29T15:32:43+09:00",
+      "date_display": "2026/09/29 15:32",
+      "sort_key": 1790663563.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "高市首相 福島県知事と会談“復興に全力で取り組む” - news.web.nhk",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yN1NOS1VmTnhQUjlZckx2NzBPdzZ6THlKakcxcVZwMlZiRTlYRlo1VzRWb255NHFOMHNnN0M2c3BFOXNFaDNyLWlaN2tQYnMwVElPZjNoMXdoZEl3Z2lZ?oc=5",
+      "summary": "高市首相 福島県知事と会談“復興に全力で取り組む”  news.web.nhk",
+      "date": "2026-09-29T15:30:21+09:00",
+      "date_display": "2026/09/29 15:30",
+      "sort_key": 1790663421.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "「職員と仕事ができ幸せ」デニー知事が退任 拍手と指笛のなか、抱えきれぬ花束手に県庁あとに【写真たっぷり】 - 琉球新報デジタル",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81SWxXcHk5YjlNcG1PWmtSbndiOGx6QV9sZmlFVU1ldDgxME91dlZ4N0xkWGt0VE04dzhUR2t2aWptdGgxN3ZuV1J1emhPVllyc0RMV3FVVXpXVzA?oc=5",
-      "summary": "玉城デニー知事が退任 「職員と仕事できたことが幸せ」 職員、市民に見送られ、県庁を後に  琉球新報デジタル",
+      "summary": "「職員と仕事ができ幸せ」デニー知事が退任 拍手と指笛のなか、抱えきれぬ花束手に県庁あとに【写真たっぷり】  琉球新報デジタル",
       "date": "2026-09-29T14:53:08+09:00",
       "date_display": "2026/09/29 14:53",
       "sort_key": 1790661188.0
     },
     {
       "source": "Google ニュース検索:市長選",
-      "title": "横浜市長選・会見一問一答＞「生活者目線の横浜を」 横浜市長選正式出馬の山中竹春氏（産経新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3SWttMHhqaW51Z0h3blhKeXNtZmVodnRseFNFWjVGYkhpYlRaWGFhVW10SnVTeng0RFJSSUVRNEVZd2dLN05BQmZ4NlBWVVBab0VycjRXY1ZwVTVmWW9zRHBoOFpaZE1LUFJXOXZhaGpXbzBYZHVJdUhteFgtanM?oc=5",
-      "summary": "横浜市長選・会見一問一答＞「生活者目線の横浜を」 横浜市長選正式出馬の山中竹春氏（産経新聞）  Yahoo!ニュース",
-      "date": "2026-09-29T14:45:33+09:00",
-      "date_display": "2026/09/29 14:45",
-      "sort_key": 1790660733.0
+      "title": "＜横浜市長選・会見一問一答＞「生活者目線の横浜を」 横浜市長選正式出馬の山中竹春氏 - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Kb19TSG1NYmFESkZaMk80NG9DYlJrSkRqOTIxSG9pWTc2dVRTQXZxV0NXbWpxZlhJT3hXUkFMclM2OG9uM3B0RHJCblZuSDNVTjhHNUtvakNfa1d6QWc3bHZWb0ZHZ2VlbTRZcHltRmJkaXowaVE?oc=5",
+      "summary": "＜横浜市長選・会見一問一答＞「生活者目線の横浜を」 横浜市長選正式出馬の山中竹春氏  産経ニュース",
+      "date": "2026-09-29T14:17:28+09:00",
+      "date_display": "2026/09/29 14:17",
+      "sort_key": 1790659048.0
     },
     {
       "source": "Google ニュース検索:市長選",
-      "title": "画像・写真：山中前市長、再出馬表明 横浜市長選：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03X0tULW9FSE5LR1RpeWtMLVBBX1BBc1JFQ1hqSWViVC1KeWZBeW1wdWRnMTV1RlpkMjhmWFpscjI1MDg2OVVidTRCa1Nka3lWVHBTRU1BUXRqM3JKa3J2aWNUTng?oc=5",
-      "summary": "画像・写真：山中前市長、再出馬表明 横浜市長選：時事ドットコム  時事ドットコム",
-      "date": "2026-09-29T14:30:59+09:00",
-      "date_display": "2026/09/29 14:30",
-      "sort_key": 1790659859.0
+      "title": "横浜市長選への出馬を表明した山中竹春・前市長＝9月29日、同市中区（寺田理恵撮影） - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWpJLXIyUERRVWY0eERWWTlrcjBxVGR4RG1qZ1lPZUVmREtCUHE2VTgtVnNwTUtqWHdTU3Voa1VScDgzRXR6c3FBVFY5eXhGSlpwVGlsVXExZVEzR3dqZEUxcjZPQ2pXV3Y5UGJRQ2RIYnVTYlV1eGxNMmZFcHJ1S0UzcHBZMjQzU3c3X2xYUll3RlF0RUpuUTc1YmZuSDF4eFE?oc=5",
+      "summary": "横浜市長選への出馬を表明した山中竹春・前市長＝9月29日、同市中区（寺田理恵撮影）  産経ニュース",
+      "date": "2026-09-29T14:17:28+09:00",
+      "date_display": "2026/09/29 14:17",
+      "sort_key": 1790659048.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "玉城デニー沖縄県知事が退任 「国防は国の専権事項、とは言っても主権者の理解が前提」（RBC琉球放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xdENfM3pjWGczUk9fSFEzUTZUWXVJX1RCUnktMmhtLUZUVk9FcjVzSC1leHZNZlhmZGhJUFBhUVIxN3BqZVFxNzVkRGxiSXpaa2t3eUI0czBET0N0RzYtSGdiRFNqX0lsblpjRFQwT2JodXEzZzFIdkRSNXJBLWc?oc=5",
-      "summary": "玉城デニー沖縄県知事が退任 「国防は国の専権事項、とは言っても主権者の理解が前提」（RBC琉球放送）  Yahoo!ニュース",
-      "date": "2026-09-29T14:24:49+09:00",
-      "date_display": "2026/09/29 14:24",
-      "sort_key": 1790659489.0
+      "source": "Google ニュース検索:市長選",
+      "title": "出馬表明会見の冒頭で陳謝する横浜市の山中竹春・前市長＝9月29日、同市中区（寺田理恵撮影） - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzRyV0RTTG9ZdGxLMzJJWktEVXg0TEVOMXg5djFUOFlScWItbTFTRXNhSmsxck5mSkc5SmY2TUwzMm9ZVGJDbnpHb1ZpWk1hYTRUdXh6TXI0ZnJmQU1iWnVBczJyU1hYdUJGR2t1ZmNwSWVsZWhHa2pLNU1Dc3MtSDJ0MFJSbkFkeWl1amZJQXAyUzFXdkF6NEZuX0FzMGgwb1E?oc=5",
+      "summary": "出馬表明会見の冒頭で陳謝する横浜市の山中竹春・前市長＝9月29日、同市中区（寺田理恵撮影）  産経ニュース",
+      "date": "2026-09-29T14:17:28+09:00",
+      "date_display": "2026/09/29 14:17",
+      "sort_key": 1790659048.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -48,84 +228,12 @@
     },
     {
       "source": "Google ニュース検索:知事",
-      "title": "【ノーカット映像】玉城デニー沖縄県知事 退任会見「国防は国の専権事項、とは言っても主権者の理解が前提」 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ScDRFenlONzBacWlJd1lhUVA1MFpIUzJJRGZpMHdpYjZpQnUxZ1lXTGR6Y3JWWl90azVUSlBCaGlqM1Jhb21oSmNubFNjU1J4RFVQY1JDOA?oc=5",
-      "summary": "【ノーカット映像】玉城デニー沖縄県知事 退任会見「国防は国の専権事項、とは言っても主権者の理解が前提」  TBS NEWS DIG",
-      "date": "2026-09-29T14:00:00+09:00",
-      "date_display": "2026/09/29 14:00",
-      "sort_key": 1790658000.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "【ノーカット映像】玉城デニー沖縄県知事 退任会見 | 沖縄のニュース｜RBC 琉球放送 (1ページ) - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BRE5QeG5JeU1hUHBhSTVkSnNNbTlhb1pxV3BCU1dtWC0ycHZKVGMxLTlfQTg1dEdqRDVzVFlhNHFKYlFQNXZwcWlrQXl4aWZYb3E2Z1ZPYzdtQ0xhNE5qT3lxcmVRNTg?oc=5",
-      "summary": "【ノーカット映像】玉城デニー沖縄県知事 退任会見 | 沖縄のニュース｜RBC 琉球放送 (1ページ)  TBS NEWS DIG",
-      "date": "2026-09-29T14:00:00+09:00",
-      "date_display": "2026/09/29 14:00",
-      "sort_key": 1790658000.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "山中前市長、再出馬表明 横浜市長選 - 盛岡経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VZ3JEcTVTLTlnWU9DeXg3RldlUzM5djlDV3JIUG5lYzI5MW1JM2s1Mjc1TEttdDdmYlVYOGxaLWhNSnAzcG1Qd0tackVRNkk2ZnRncA?oc=5",
-      "summary": "山中前市長、再出馬表明 横浜市長選  盛岡経済新聞",
-      "date": "2026-09-29T13:57:57+09:00",
-      "date_display": "2026/09/29 13:57",
-      "sort_key": 1790657877.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "「中長期的な取り組みが必要」福島県知事らが高市総理と面会 復興・創生期間以降の財源確保要望（TUFテレビユー福島） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81ZkVVUWV3NWpCTTVOVFljUlJZSVBHbVJIaHl6QUtsYnlwaHRONWZGQU04aWdHY2R0TkE2Y3RxS04zLW54QXJtT05yNmM0RENYYzJ0bHVhbU1yeFJkbXNpVEctZ1VreHFVNENQRUpwM1hfTUlUXzVSSjZhTkZuV3c?oc=5",
-      "summary": "「中長期的な取り組みが必要」福島県知事らが高市総理と面会 復興・創生期間以降の財源確保要望（TUFテレビユー福島）  Yahoo!ニュース",
-      "date": "2026-09-29T13:54:16+09:00",
-      "date_display": "2026/09/29 13:54",
-      "sort_key": 1790657656.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "「辺野古こそ日本の民主主義の問題を浮き彫りに」 玉城デニー知事、退任会見で8年間を総括 - 沖縄タイムス社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TbDFZbXVrNUhQdW1zN25pbVdpZTVmZXRGek1lcG9rYzQwSGp6MjNWaXRDS3NuTTVTdEJhdnBJVTNQTVI1dVVZOS1PQ01BWU5HdXpXbWE0ZklqQWkzQWc?oc=5",
-      "summary": "「辺野古こそ日本の民主主義の問題を浮き彫りに」 玉城デニー知事、退任会見で8年間を総括  沖縄タイムス社",
-      "date": "2026-09-29T13:54:00+09:00",
-      "date_display": "2026/09/29 13:54",
-      "sort_key": 1790657640.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
       "title": "玉城デニー知事が最後の記者会見で語ったこと【全文】 - 沖縄タイムス社",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrOEgzSVUwMjdMZDB5RU1nejcyX0U3enlBcHlacmRqVXQ0Zm95di1iUzVYYXQzYzJjYk9YSXBoVG9CNnhMSTB0TUw5ZlJxanVBZ0t0Q3FnRHBSbnR6SEE?oc=5",
       "summary": "玉城デニー知事が最後の記者会見で語ったこと【全文】  沖縄タイムス社",
       "date": "2026-09-29T13:50:00+09:00",
       "date_display": "2026/09/29 13:50",
       "sort_key": 1790657400.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "山中氏がパワハラ謝罪し「市民目線進める」 横浜市長選に立候補表明 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWFRPWENsZWgwUExTZmdyZmV0b3loS3dydEdTcjlWdUE3RFhTN2J5RDlrbTI3a002OV9KZV9odURNZFpjaFRia0tWanRaTTFQREpPSDQ5N2U1LXhHZHFncWVZd2QtNUU?oc=5",
-      "summary": "山中氏がパワハラ謝罪し「市民目線進める」 横浜市長選に立候補表明  朝日新聞",
-      "date": "2026-09-29T13:46:58+09:00",
-      "date_display": "2026/09/29 13:46",
-      "sort_key": 1790657218.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "デニー知事が退任会見 「喜びを県民と分かち合えた」 新知事の古謝氏へ助言も（琉球新報） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBONmxDT19lRU9yUTJBMlRZbnZqWk5YQzBNRmxlTlQtMU5fdlZCUWp3MlZWV1VUUFNzZFN5YWRDbmNocTFFMGV1aF9qd2JyYUk3blFCTUpQN2tpUzBqQ3hsd0tpNEtCUW9ETEFaTGpuVHAxYTNkSUl4Y0xZbldsLXM?oc=5",
-      "summary": "デニー知事が退任会見 「喜びを県民と分かち合えた」 新知事の古謝氏へ助言も（琉球新報）  Yahoo!ニュース",
-      "date": "2026-09-29T13:31:26+09:00",
-      "date_display": "2026/09/29 13:31",
-      "sort_key": 1790656286.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "「何をもって『オール沖縄の終焉』というのか」 沖縄・玉城デニー知事が退任会見で疑問視 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yOTRWcGxzNDB1dnI5Qm9GWXhaY2lkejdCenZ2MXQ2TXhkLTBzMFBJTGN3U3dRazREZ1NiZThOM2xGNGdUUGtsdFJ6Tkx5M1pZU2VFNk9sNDRJOGtINE9tOGdBbWVCaUx0YnA4Skh2V2llVFBfZVE?oc=5",
-      "summary": "「何をもって『オール沖縄の終焉』というのか」 沖縄・玉城デニー知事が退任会見で疑問視  産経ニュース",
-      "date": "2026-09-29T13:30:44+09:00",
-      "date_display": "2026/09/29 13:30",
-      "sort_key": 1790656244.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -146,24 +254,6 @@
       "sort_key": 1790655551.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "「万一の時のトップの対応力」とは 知事や市長らが自衛隊から学ぶ（ＯＡＢ大分朝日放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12b2tlU2s5aExRMTUyLVgwa1YxUzA5ekRQSWVhc1dKRXRwWTNqTXZOUHNtVTA5eVpadmZoQ3o4QW5aY09yb056UnlMb2ZSQnVBcUMxVVZkTHEzdnhTR1BiSkJlLVRadDRiNk96MGtndTY4MmhnNTVxTlJyZFQtaDg?oc=5",
-      "summary": "「万一の時のトップの対応力」とは 知事や市長らが自衛隊から学ぶ（ＯＡＢ大分朝日放送）  Yahoo!ニュース",
-      "date": "2026-09-29T13:15:03+09:00",
-      "date_display": "2026/09/29 13:15",
-      "sort_key": 1790655303.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "「市庁舎より復興優先を」 熊本市長選、岡氏が立候補表明 - nishinippon.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3d2RhekpwbThRSjViT3J0d3VlOW8zbjdhTXZMeC0xY3BjckhUZ2tqSG1tamlKUFpnS0haLVlKcFFsVDB4azBqTWJKcXh5cjlXbWwxb1d3?oc=5",
-      "summary": "「市庁舎より復興優先を」 熊本市長選、岡氏が立候補表明  nishinippon.co.jp",
-      "date": "2026-09-29T13:04:31+09:00",
-      "date_display": "2026/09/29 13:04",
-      "sort_key": 1790654671.0
-    },
-    {
       "source": "Google ニュース検索:地方議会",
       "title": "水道代値上げに反対 - 選挙ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoWkx4cE9lak9jNHpDREhMWFRSekJxQVd5Ymx1cGVLakJfb3hjRkxVV1poOE11MDZHNlpvNk1KT19HOUZjZkluMXBsTndnWUFESGFwOWtNUE5qMG9Rdy13?oc=5",
@@ -182,24 +272,6 @@
       "sort_key": 1790653800.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "福島復興全力尽くすと首相 防災相兼務巡り知事に伝達（共同通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TeldrZ0hXOC1PcTdGUHlxb0psYmxLOWdPZXhWWVNXR3FkcUY5QklEQjdCeXpKczdFcmx1TXFBX2ZFS1dTVG1LS1BqbXQ3eFJ1S1dLX2FaOHZrWDRiRi10NFdhc0ZxY014REJTM1ZaX0xnQmZ6bm5kY3ctNEx6ZGM?oc=5",
-      "summary": "福島復興全力尽くすと首相 防災相兼務巡り知事に伝達（共同通信）  Yahoo!ニュース",
-      "date": "2026-09-29T12:47:05+09:00",
-      "date_display": "2026/09/29 12:47",
-      "sort_key": 1790653625.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "福島復興全力尽くすと首相 防災相兼務巡り知事に伝達 | 全国のニュース - 福井新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FeVlEWGM2RV9XWlFFSnNualhqMHZhc2tiS0lLbzBaUjl5ZmVhYmxHbXh1ZUdJdktseTFPdGVYSlR0UURMM0dod2ktTUdQd0ZyUGEweUNWNnRiQ0twRFE?oc=5",
-      "summary": "福島復興全力尽くすと首相 防災相兼務巡り知事に伝達 | 全国のニュース  福井新聞社",
-      "date": "2026-09-29T12:47:02+09:00",
-      "date_display": "2026/09/29 12:47",
-      "sort_key": 1790653622.0
-    },
-    {
       "source": "Google ニュース検索:地方議会",
       "title": "本日から、みなかみ町議会議員選挙が始まりました。 - 選挙ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sWThlRl8yTFZjbDQ3Z0JSbEJidWMzVWxld1hKUGJ3cW9lclY2cDhFcEVxOTdsZ25DRUdyQ0V4TmxXR2tyZFE2RVBvOTdPbHVlLVpMN01zS2hORUtOX3NZ?oc=5",
@@ -207,6 +279,15 @@
       "date": "2026-09-29T12:39:11+09:00",
       "date_display": "2026/09/29 12:39",
       "sort_key": 1790653151.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "山中氏がパワハラ謝罪し「市民目線進める」 横浜市長選に立候補表明 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWFRPWENsZWgwUExTZmdyZmV0b3loS3dydEdTcjlWdUE3RFhTN2J5RDlrbTI3a002OV9KZV9odURNZFpjaFRia0tWanRaTTFQREpPSDQ5N2U1LXhHZHFncWVZd2QtNUU?oc=5",
+      "summary": "山中氏がパワハラ謝罪し「市民目線進める」 横浜市長選に立候補表明  朝日新聞",
+      "date": "2026-09-29T12:39:04+09:00",
+      "date_display": "2026/09/29 12:39",
+      "sort_key": 1790653144.0
     },
     {
       "source": "Google ニュース検索:市長選",
@@ -227,6 +308,15 @@
       "sort_key": 1790652718.0
     },
     {
+      "source": "Google ニュース検索:知事",
+      "title": "デニー知事が退任会見 「喜びを県民と分かち合えた」 新知事の古謝氏へ助言も - 琉球新報デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiQ0ZrTVpMQVg5TExzYXhoaFRZS2M2b1VwVWZ6UlBfRUNnRHJiY2xPeHNvZTlRdTFNRlhYQlQtMUhWZlpBQWh1RWFlWlZqNXNIaG5ocnJFUnY5WTA?oc=5",
+      "summary": "デニー知事が退任会見 「喜びを県民と分かち合えた」 新知事の古謝氏へ助言も  琉球新報デジタル",
+      "date": "2026-09-29T12:30:36+09:00",
+      "date_display": "2026/09/29 12:30",
+      "sort_key": 1790652636.0
+    },
+    {
       "source": "Google ニュース検索:地方議会",
       "title": "中国総領事館が建国記念レセプションを開催、500人強が出席 - data-max.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUk9fRmhuMTVuUHIxSV9ESE5HQzFKM0x0M2VrQlRfbjl0OVMtZGNablhHTlZ5TFRjWWxlSnk4alVhRmtsSXFkLVVhLVBDa1hLeUE?oc=5",
@@ -234,15 +324,6 @@
       "date": "2026-09-29T12:30:00+09:00",
       "date_display": "2026/09/29 12:30",
       "sort_key": 1790652600.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "山中前市長、再出馬表明 「誠実に市民と向き合う」―横浜市長選 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWcUxlbUNmYzF6R1NuYnd6LWdPVTJtcDZUWkpLNUc0a01oSVlGaE9LME5PVDVTT2FQOFVGWm9wbWUzZnBCYmw0UGFRNHFNMWdlVWNOUFBCejBLdlpfOWVPZFBiOA?oc=5",
-      "summary": "山中前市長、再出馬表明 「誠実に市民と向き合う」―横浜市長選  時事ドットコム",
-      "date": "2026-09-29T12:26:00+09:00",
-      "date_display": "2026/09/29 12:26",
-      "sort_key": 1790652360.0
     },
     {
       "source": "Google ニュース検索:市長選",
@@ -254,15 +335,6 @@
       "sort_key": 1790651365.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "香川照之、吉村洋文知事のインスタグラムに登場 豪華集合ショットに「すごいメンバー」「なんという贅沢」の声 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GbjF4SUtMMW1Hd2JXcnhqWkVqSExlcDJuV1BScmtuMTlHQWNVQ3dKcndjeURxa2poV0hHbDVjS0JBSzBhTENOVkVzN0gwVWlrT0d3MkR3?oc=5",
-      "summary": "香川照之、吉村洋文知事のインスタグラムに登場 豪華集合ショットに「すごいメンバー」「なんという贅沢」の声  オリコンニュース",
-      "date": "2026-09-29T12:07:00+09:00",
-      "date_display": "2026/09/29 12:07",
-      "sort_key": 1790651220.0
-    },
-    {
       "source": "Yahoo!ニュース 国内",
       "title": "ネット中傷 賠償額の見直しを検討",
       "link": "https://news.yahoo.co.jp/pickup/6596938?source=rss",
@@ -270,15 +342,6 @@
       "date": "2026-09-29T11:53:08+09:00",
       "date_display": "2026/09/29 11:53",
       "sort_key": 1790650388.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "パワハラ問題で辞任から“出直し” 山中竹春氏が横浜市長選への出馬表明「一人の人間として誠実に」 これまでに5人が立候補表明（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReHRIYWlvT1JIZThpZUU3Ui1CazhxUWRRbDNXSEVtaVVRdmFUMDF6RmYxaDROcC1IY2ZxeWJvaDJyckhpcjNmVjc4SUN3bVRSaXc0bXM0MlkwR0l3YzNKb2xES2FrSzlvcWNCdDQ5VVEzYTdDTHdWM3lzNkxGczg?oc=5",
-      "summary": "パワハラ問題で辞任から“出直し” 山中竹春氏が横浜市長選への出馬表明「一人の人間として誠実に」 これまでに5人が立候補表明（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-      "date": "2026-09-29T11:52:22+09:00",
-      "date_display": "2026/09/29 11:52",
-      "sort_key": 1790650342.0
     },
     {
       "source": "Google ニュース検索:知事",
@@ -308,31 +371,13 @@
       "sort_key": 1790649000.0
     },
     {
-      "source": "Google ニュース検索:市長選",
-      "title": "山中前市長、再出馬を正式表明＝横浜市長選 - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JQTFsSW5VQlFJaC1RLXhsdnRreXlnOTMwVFNkRUVtSGFlUUNvTE91R2hWUnM3MGRRay1tOHhSU1NJbDBLbks2SDdqMHNBREtRaXN3UA?oc=5",
-      "summary": "山中前市長、再出馬を正式表明＝横浜市長選  時事通信ニュース",
-      "date": "2026-09-29T11:17:00+09:00",
-      "date_display": "2026/09/29 11:17",
-      "sort_key": 1790648220.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "2040年を見据えた自治体DX推進をテーマに、「地方自治情報化推進フェア2026」へ出展 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IVkdJV1ppbHpxcDFzQzJxaUhxVWd2SVFFV3U3eF9WdjRzR0lFREtQdDdCSHJpYjl3MW90N2FkUWtuT1ZFa3p1bng1ZWd0MjZaMlRMaw?oc=5",
-      "summary": "2040年を見据えた自治体DX推進をテーマに、「地方自治情報化推進フェア2026」へ出展  ニコニコニュース",
-      "date": "2026-09-29T11:15:31+09:00",
-      "date_display": "2026/09/29 11:15",
-      "sort_key": 1790648131.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "【速報】横浜市の山中前市長は記者会見で「いま一度誠実に市民と向き合う」と述べ、出直し選への出馬を正式表明した - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rdW1uYngxM3QyQjA0aVkzYVAwQTFpTDhpNTZnaXozZXdSeVgzYkxmM1NnX0pCYklBRElLdW5vbDZxY2NCazhzVklEcEwzSjY3aWtRTFZ1QTRFcWg1aEdkWF9XZzZPdw?oc=5",
-      "summary": "【速報】横浜市の山中前市長は記者会見で「いま一度誠実に市民と向き合う」と述べ、出直し選への出馬を正式表明した  時事ドットコム",
-      "date": "2026-09-29T11:14:00+09:00",
-      "date_display": "2026/09/29 11:14",
-      "sort_key": 1790648040.0
+      "source": "Google ニュース検索:知事",
+      "title": "玉城デニー沖縄県知事が退任 「国防は国の専権事項、とは言っても主権者の理解が前提」（RBC琉球放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xdENfM3pjWGczUk9fSFEzUTZUWXVJX1RCUnktMmhtLUZUVk9FcjVzSC1leHZNZlhmZGhJUFBhUVIxN3BqZVFxNzVkRGxiSXpaa2t3eUI0czBET0N0RzYtSGdiRFNqX0lsblpjRFQwT2JodXEzZzFIdkRSNXJBLWc?oc=5",
+      "summary": "玉城デニー沖縄県知事が退任 「国防は国の専権事項、とは言っても主権者の理解が前提」（RBC琉球放送）  Yahoo!ニュース",
+      "date": "2026-09-29T11:19:01+09:00",
+      "date_display": "2026/09/29 11:19",
+      "sort_key": 1790648341.0
     },
     {
       "source": "Yahoo!ニュース 国内",
@@ -354,15 +399,6 @@
     },
     {
       "source": "Google ニュース検索:地方議会",
-      "title": "島根・鳥取両県地方議会会議録 津和野、吉賀２年間公開できず ２６年６町村未公開、住民知る手段不十分 - 山陰中央新報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SnNDM1F6ZV9sREhCNlM1Q0NFV2I1akF3cWxVQmJYRjRUUFBhNVJqT0VneFBjdWI1WlcwSGdYamEweXNlOXFmZDFLN0xFQVE2TzZzckFpQjY1NDQ?oc=5",
-      "summary": "島根・鳥取両県地方議会会議録 津和野、吉賀２年間公開できず ２６年６町村未公開、住民知る手段不十分  山陰中央新報デジタル",
-      "date": "2026-09-29T10:45:15+09:00",
-      "date_display": "2026/09/29 10:45",
-      "sort_key": 1790646315.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
       "title": "【大揺れ福岡県政】「歪んだ関係」報道、露骨な圧力・カツアゲ証言…舞台裏を西日本新聞の取材班トップが明かす - JBpress",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NWDAzN1ByRnBaQUlXTklmU3hUSGQwSzVVaUoxWnlvTUZ2RWdyWlgyMFIxaWYzcEZSeDVJRng1c2R0V2M5dHlkX0w2Z0lJYlFRQmZSalNjOUFBYzBud1E?oc=5",
       "summary": "【大揺れ福岡県政】「歪んだ関係」報道、露骨な圧力・カツアゲ証言…舞台裏を西日本新聞の取材班トップが明かす  JBpress",
@@ -371,13 +407,13 @@
       "sort_key": 1790644255.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "「イーグルス聴きながら来た」 玉城知事が最後の登庁 午前11時半から退任会見へ【動画あり】 - 沖縄タイムス社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aUUFfbDV4emZ6a05DTjU3dC0tZjU2MWpyNThIUUNsX3BrWjJNalljRk43cG1lQm1GR05VejJVZ0dBdm15Ym5sVWxNQ2NmRjZ3ZERrTm92WTF5aXZzaXc?oc=5",
-      "summary": "「イーグルス聴きながら来た」 玉城知事が最後の登庁 午前11時半から退任会見へ【動画あり】  沖縄タイムス社",
-      "date": "2026-09-29T09:56:00+09:00",
-      "date_display": "2026/09/29 09:56",
-      "sort_key": 1790643360.0
+      "source": "Google ニュース検索:地方議会",
+      "title": "2040年を見据えた自治体DX推進をテーマに、「地方自治情報化推進フェア2026」へ出展 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04eHBJTF9ia2g5WUFZdFhWekxxVV82YndIMVRfU2VFdENKWThqT0J6akRlWE1NOEF2Rk1MdTkxYk5NYVp0b2plQUo1MVlpR25MV0I3bUZGdk0yTEJGYkVUMkkwQ1VLdEJRVmc?oc=5",
+      "summary": "2040年を見据えた自治体DX推進をテーマに、「地方自治情報化推進フェア2026」へ出展  PR TIMES",
+      "date": "2026-09-29T09:30:01+09:00",
+      "date_display": "2026/09/29 09:30",
+      "sort_key": 1790641801.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -389,7 +425,7 @@
       "sort_key": 1790640570.0
     },
     {
-      "source": "Google ニュース検索:知事",
+      "source": "Google ニュース検索:市長選",
       "title": "「世代交代」象徴となった沖縄知事選 玉城デニー知事や「オール沖縄」の訴え徐々に希薄化 - 産経ニュース",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzQUJkaVRwYnRrS0s4Q0tiTjhwaXl3X19tTmxSc1pGcHZSeVRQbk8xOHVLaWJVNHBSNDJMWjYtb0hSZmxtZmxFOGdYZ3dhcmU2R05oTlRnWnpXREFHTFB1RnpIWmhTM1RkazM0alhoX25tc2RqQ2c?oc=5",
       "summary": "「世代交代」象徴となった沖縄知事選 玉城デニー知事や「オール沖縄」の訴え徐々に希薄化  産経ニュース",
@@ -416,33 +452,6 @@
       "sort_key": 1790636400.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "「歴史に残る決壊」 知事が印旛沼視察 - 東京新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMm9ZSzdhb21WV2NfWWhqTDZqQUNzOWtuVjlGTzVhY1k3VnlZLXl1YjRzbExWX01VZWw5X0VsSVgwR2VSQUExUnMyeWNPMTBWc2VJ?oc=5",
-      "summary": "「歴史に残る決壊」 知事が印旛沼視察  東京新聞",
-      "date": "2026-09-29T07:38:04+09:00",
-      "date_display": "2026/09/29 07:38",
-      "sort_key": 1790635084.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "《華やかなドレスは異例》高市早苗首相、内閣改造メンバーお披露目で“皇室御用達ブランド”を着用、「雅子さまとそっくり」の声も - NEWSポストセブン",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwWmZDeUl2U2ExTWVKUVdVUll1VEVGRHJ2cWNuN2M2RjFWOHYzTHVReS1aUVdTWjR2aU11c183Ri05VVByaVp5UE4xODB6RnREWXI2SVJid2ZVN2xVdUdOMmNvZWt1N0ZDMWRFbjRB?oc=5",
-      "summary": "《華やかなドレスは異例》高市早苗首相、内閣改造メンバーお披露目で“皇室御用達ブランド”を着用、「雅子さまとそっくり」の声も  NEWSポストセブン",
-      "date": "2026-09-29T07:00:00+09:00",
-      "date_display": "2026/09/29 07:00",
-      "sort_key": 1790632800.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "豊見城市長選 新人・大田善裕氏が15政策を発表 大型事業見直しや子育て支援を柱に - 沖縄タイムス社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51V0lhUzlveXBfMEtScnYxdmgtU25GZ1JDVHBMbWZxMURrWnpUMlBEYnhKTDVEUlphQ2xQQkVEa3ZoZ2lEQk1WakthSmh4WXJYVEJvdktfd0dCZjhBX0E?oc=5",
-      "summary": "豊見城市長選 新人・大田善裕氏が15政策を発表 大型事業見直しや子育て支援を柱に  沖縄タイムス社",
-      "date": "2026-09-29T06:45:00+09:00",
-      "date_display": "2026/09/29 06:45",
-      "sort_key": 1790631900.0
-    },
-    {
       "source": "Yahoo!ニュース 国内",
       "title": "中国 首相の「台湾発言」是正要求",
       "link": "https://news.yahoo.co.jp/pickup/6596903?source=rss",
@@ -450,15 +459,6 @@
       "date": "2026-09-29T06:16:09+09:00",
       "date_display": "2026/09/29 06:16",
       "sort_key": 1790630169.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "中村保博前副知事ハラスメント事案、調査結果公表時期「答えられぬ」 福井県議会、慎重な審議重要 - 福井新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96cE9uUVFOMklWTkRzdDlkaHNVQkhSTW9RRUJvMFVzN3FTVmZtUXpoRjRidkFOWVZQc3lOVnFsY2FBY0FyUHVQMVpnbi1RUUxLajM3TndfX0JRU0E2a0E?oc=5",
-      "summary": "中村保博前副知事ハラスメント事案、調査結果公表時期「答えられぬ」 福井県議会、慎重な審議重要  福井新聞社",
-      "date": "2026-09-29T06:10:00+09:00",
-      "date_display": "2026/09/29 06:10",
-      "sort_key": 1790629800.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -479,10 +479,28 @@
       "sort_key": 1790629200.0
     },
     {
+      "source": "Google ニュース検索:市長選",
+      "title": "「市庁舎より復興優先を」 熊本市長選、岡氏が立候補表明 - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3d2RhekpwbThRSjViT3J0d3VlOW8zbjdhTXZMeC0xY3BjckhUZ2tqSG1tamlKUFpnS0haLVlKcFFsVDB4azBqTWJKcXh5cjlXbWwxb1d3?oc=5",
+      "summary": "「市庁舎より復興優先を」 熊本市長選、岡氏が立候補表明  西日本新聞me",
+      "date": "2026-09-29T06:00:00+09:00",
+      "date_display": "2026/09/29 06:00",
+      "sort_key": 1790629200.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "新潟市長選 青木氏が出馬表明 「新たな選択肢を」 ／新潟 - mainichi.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OEZxMXRpczNBLVZSVEdQYVNGMlR0ektXR0lqZGR5ZmlsUmlnRlI5V3NqdE9wc1dDRm1DWFo0eHdBd25MUkhTd2VTWHp0M1JqNVpJRFNVWDNQYmpYcWtRMmY5TnpxczdM?oc=5",
+      "summary": "新潟市長選 青木氏が出馬表明 「新たな選択肢を」 ／新潟  mainichi.jp",
+      "date": "2026-09-29T05:01:29+09:00",
+      "date_display": "2026/09/29 05:01",
+      "sort_key": 1790625689.0
+    },
+    {
       "source": "Google ニュース検索:地方議会",
-      "title": "｢子育てしやすい自治体ランキング｣東京圏トップ100 4位は渋谷区､5位は国分寺市､6位は目黒区…1位は？ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXRxYmZESjE2SzBpMUh5Q1JvWVU4ZWd5Z3g5cy03Q3c1WFZsQ1RweUJtWktha1hkcjNUU2NMLUY0bGY3MFp2STMtODZOTUJwVHY0TXBkclI1eTk2b3lkcGZoZ0dMN2VoTGJweEVnU1laTnNWOVdFYzRNaWFVQnlsYmdKb2dqSFE?oc=5",
-      "summary": "｢子育てしやすい自治体ランキング｣東京圏トップ100 4位は渋谷区､5位は国分寺市､6位は目黒区…1位は？  ｄメニューニュース",
+      "title": "｢子育てしやすい自治体ランキング｣東京圏トップ100 4位は渋谷区､5位は国分寺市､6位は目黒区…1位は？ - topics.smt.docomo.ne.jp",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjRWeFNpdG9yOFFITG9XbFNaT05VVU5sSTNtckdVMGhiVFFoUDBLd1dEQm5MNjZqWnRKcGt6bGpaeHdfd3NXOHFnQ0IxTmQ1SnBvVXZSUFlwZWhwcGlRekY4LXpGdTFYM1lPaUJQbkx2QUF1Um0yS1hfUXBoNFZjakk0Z0ZRVUk?oc=5",
+      "summary": "｢子育てしやすい自治体ランキング｣東京圏トップ100 4位は渋谷区､5位は国分寺市､6位は目黒区…1位は？  topics.smt.docomo.ne.jp",
       "date": "2026-09-29T05:00:00+09:00",
       "date_display": "2026/09/29 05:00",
       "sort_key": 1790625600.0
@@ -508,15 +526,6 @@
     {
       "source": "Google ニュース検索:市長選",
       "title": "横浜市長選の構図は 出馬表明の山中前市長、前回支援の各党は離れる [神奈川県] - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3JzWGJjVW9DY3FyRFpEX290U2NmM3VIV3ZyUV9QMUFiVExKV0oxNVZPUjFOM0pwQnRuU0NqbVR2M1otbW5pRE83bkFUUjRVWGU2QW04c3ZMWTNfc2N2RUtSTTNOMzVYRWJaX21LTFNCc0FBMmcwbEEyX2E2VWgwamRLNGRSTjdHWGdncUR3?oc=5",
-      "summary": "横浜市長選の構図は 出馬表明の山中前市長、前回支援の各党は離れる [神奈川県]  朝日新聞",
-      "date": "2026-09-29T05:00:00+09:00",
-      "date_display": "2026/09/29 05:00",
-      "sort_key": 1790625600.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "横浜市長選の構図は 出馬表明の山中前市長、前回支援の各党は離れる [神奈川県] - 朝日新聞",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmdvS3JjS2djUUNwek9qNWJJTzhQbEZGelpkeUlaQnc5bko2ck1qTzBlS0FyMV91dnBLVTQ5emRFYTVPUUxtU2lHd1Z2bC1WSV92QXdGQUlrMXY4R251OWhlckE2dUxkVnFkc1NiS2xJLUdjZ19tczRtbnRnN0hJOEdwUmY3OFNPZlFSWjhGMEdKZy1PNzNnOV9B?oc=5",
       "summary": "横浜市長選の構図は 出馬表明の山中前市長、前回支援の各党は離れる [神奈川県]  朝日新聞",
       "date": "2026-09-29T05:00:00+09:00",
@@ -524,13 +533,13 @@
       "sort_key": 1790625600.0
     },
     {
-      "source": "Google ニュース検索:市長選",
-      "title": "横浜市長選の構図は 出馬表明の山中前市長、前回支援の各党は離れる [神奈川県] - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMWl3TlZncFh5ck1pcEtxaVEzWE54MDFhQkFQcWxIakw3a3U1NnFrRTdSUC04ck5JSm9NQ2NhR09JSVg0YmdVNFFzTWExSUFacnVtQkJwdnZlakVqRW9pZzEyak5lWWlJS1NzdnJn?oc=5",
-      "summary": "横浜市長選の構図は 出馬表明の山中前市長、前回支援の各党は離れる [神奈川県]  朝日新聞",
-      "date": "2026-09-29T05:00:00+09:00",
-      "date_display": "2026/09/29 05:00",
-      "sort_key": 1790625600.0
+      "source": "Google ニュース検索:地方議会",
+      "title": "島根・鳥取両県地方議会会議録 津和野、吉賀２年間公開できず ２６年６町村未公開、住民知る手段不十分 - 山陰中央新報デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SnNDM1F6ZV9sREhCNlM1Q0NFV2I1akF3cWxVQmJYRjRUUFBhNVJqT0VneFBjdWI1WlcwSGdYamEweXNlOXFmZDFLN0xFQVE2TzZzckFpQjY1NDQ?oc=5",
+      "summary": "島根・鳥取両県地方議会会議録 津和野、吉賀２年間公開できず ２６年６町村未公開、住民知る手段不十分  山陰中央新報デジタル",
+      "date": "2026-09-29T04:00:00+09:00",
+      "date_display": "2026/09/29 04:00",
+      "sort_key": 1790622000.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -587,15 +596,6 @@
       "sort_key": 1790597661.0
     },
     {
-      "source": "Yahoo!ニュース 国内",
-      "title": "天皇陛下のスマホで撮影 写真公開",
-      "link": "https://news.yahoo.co.jp/pickup/6596879?source=rss",
-      "summary": "",
-      "date": "2026-09-28T20:10:35+09:00",
-      "date_display": "2026/09/28 20:10",
-      "sort_key": 1790593835.0
-    },
-    {
       "source": "Google ニュース検索:地方議会",
       "title": "【画像・写真2枚目】育休取得率はわずか1.5％！「家事もろくにできないのに」元県議が明かす地方議会の“古い体質” - 女性自身",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1VS1YMGFqS3d6cU9hYXRsRUF6NjREMzdDdVpEeFRyVUkwcXd2c3NUZGVZOHVkbF9vMjJHbHVnWnotcmJPeVJ0N2hrZDVITHJVQTAtTQ?oc=5",
@@ -606,9 +606,9 @@
     },
     {
       "source": "Google ニュース検索:地方議会",
-      "title": "福岡・大牟田市議会、定数23→22に 2027年春の統一地方選から適用 - nishinippon.co.jp",
+      "title": "福岡・大牟田市議会、定数23→22に 2027年春の統一地方選から適用 - 西日本新聞me",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zeVhfaGVlWGc2TkN4Q0tMN0ZPbU1GMGx3bHY1MDlFQW9ON3d5SVlEUVVIUnluM3o1QV9vQVVkRWJHNWNTamlMeXJHcExFTlp1Qm5JMmRn?oc=5",
-      "summary": "福岡・大牟田市議会、定数23→22に 2027年春の統一地方選から適用  nishinippon.co.jp",
+      "summary": "福岡・大牟田市議会、定数23→22に 2027年春の統一地方選から適用  西日本新聞me",
       "date": "2026-09-28T18:34:00+09:00",
       "date_display": "2026/09/28 18:34",
       "sort_key": 1790588040.0
