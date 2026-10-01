@@ -1,6 +1,258 @@
 {
-  "generated_at": "2026年10月01日 18:10",
+  "generated_at": "2026年10月01日 21:11",
   "items": [
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "7人が立候補表明 混沌の横浜市長選、「反山中氏」一本化ならず - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SUWxzSVZRNTVjaE5DM29SRWhhekJaU3pfeFlINTZNcWppZlotUHpQa2MwbjJwMUh0V2RNY25NeGsxZTdpLWNZdE1mWVZmSzVCTUFzUlBXbWp1eUMxNDZhVE1sZl84Qjh4?oc=5",
+      "summary": "7人が立候補表明 混沌の横浜市長選、「反山中氏」一本化ならず  毎日新聞",
+      "date": "2026-10-01T21:04:28+09:00",
+      "date_display": "2026/10/01 21:04",
+      "sort_key": 1790856268.0
+    },
+    {
+      "source": "Yahoo!ニュース 国内",
+      "title": "統一地方選 4月11・25日投票へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597206?source=rss",
+      "summary": "",
+      "date": "2026-10-01T20:19:26+09:00",
+      "date_display": "2026/10/01 20:19",
+      "sort_key": 1790853566.0
+    },
+    {
+      "source": "Yahoo!ニュース 国内",
+      "title": "2日は関東で雨 服装選びにも注意",
+      "link": "https://news.yahoo.co.jp/pickup/6597204?source=rss",
+      "summary": "",
+      "date": "2026-10-01T20:13:35+09:00",
+      "date_display": "2026/10/01 20:13",
+      "sort_key": 1790853215.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "第16期国会議員が有権者と面会する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWV2t0UzhRRVRNR3I0ZUZ6TndmNFNteDRzcmlxVVlsUHJsZUUtdFI3S1A3UGRkNFJoQTk2MDU2R3c0RHBtQlhpOGxrTnZfTlVCcFFJTmlEdk5GbU1GSVh5Tng3d1ZvVENTU0ZKVEE2ZjZndDdVeXFB?oc=5",
+      "summary": "第16期国会議員が有権者と面会する。  Vietnam.vn",
+      "date": "2026-10-01T20:13:15+09:00",
+      "date_display": "2026/10/01 20:13",
+      "sort_key": 1790853195.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "ついに実現！キャニオンルート 石井前知事「感無量です」一般開放祝って記念式典 新田知事「唯一無二の観光コンテンツ」 富山 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MHdkZk84b1ZPWlNQMGFkLTU5QTJ6RTBBTWJDYTRpbVlGVDd4R2otb1dTWVJKTjB0RWs3RlRKYW9EbEtCMEwxb0MtRXY4b2FRbk5xYk1HUU41UQ?oc=5",
+      "summary": "ついに実現！キャニオンルート 石井前知事「感無量です」一般開放祝って記念式典 新田知事「唯一無二の観光コンテンツ」 富山  TBS NEWS DIG",
+      "date": "2026-10-01T20:10:00+09:00",
+      "date_display": "2026/10/01 20:10",
+      "sort_key": 1790853000.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "横浜市長選、会社社長の馬場慎一郎氏が出馬表明 7人目 「完全無所属で市民の声代弁」（産経新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tVzB0OHQxcmpOUXF3dDF6bVdIdDJVN2Z2SGNnVGQ1MjhYd0lWczVSUWlOd09vSHZFQVBRdjhmTEtHcWlKbkN3N25XWVhQMFNkZFUzU3JKOHFxMWNta296RzZPSWJ1Z2wwSVg0d3ZhdUdGZnpoN1docmV6T2xwaWs?oc=5",
+      "summary": "横浜市長選、会社社長の馬場慎一郎氏が出馬表明 7人目 「完全無所属で市民の声代弁」（産経新聞）  Yahoo!ニュース",
+      "date": "2026-10-01T20:08:02+09:00",
+      "date_display": "2026/10/01 20:08",
+      "sort_key": 1790852882.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "自民党神奈川県連も原沢敦美氏の推薦を決定 今月の横浜市長選（産経新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBONjh4X3RLc25najFXUndQV3Q2TnNZT2R5eVNfNllycUQwN0tVVjN5N3lPNEpBSHYxbzZhbjV1T2FxV3FVa3Z6d1NuZWdYeHZaOGNZMFhWb0tsSEkzMEFBSG4ybW8zQkFxLTJqU09GLUhtNllVbVltU3RrSWF1LUk?oc=5",
+      "summary": "自民党神奈川県連も原沢敦美氏の推薦を決定 今月の横浜市長選（産経新聞）  Yahoo!ニュース",
+      "date": "2026-10-01T20:07:39+09:00",
+      "date_display": "2026/10/01 20:07",
+      "sort_key": 1790852859.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "アリーナ諸室 山口知事「隠し部屋ではなく私的利用もない」（NBC長崎放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FTXQ0RVhpQi1YQWNnc1FtcUZYbnNHYk4xem5oU19waHplRk9EWE5BekJrSHF5dlJVeVd2TlBfaWZla28tVVlOZWVPMXpPRXAxOWZTcGl5bkNiVUh4T1VJRk1PQ2hmdnFjcG1UbWdtSXJlYnJzQTlubFNqOEp1SFU?oc=5",
+      "summary": "アリーナ諸室 山口知事「隠し部屋ではなく私的利用もない」（NBC長崎放送）  Yahoo!ニュース",
+      "date": "2026-10-01T19:55:25+09:00",
+      "date_display": "2026/10/01 19:55",
+      "sort_key": 1790852125.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "アリーナ諸室 山口知事「隠し部屋ではなく私的利用もない」 | 長崎のニュース | 天気 | NBC長崎放送 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MzVNeFJLYU5FZ1dFNUprbmxqcXJoTlZvbkZVT1JXelQxVE5MUmZZa21SSV82YXdGT2w2R25sd0NvWUUwWW5VUThpTWR2cTdPWlU0OGJwNThNUQ?oc=5",
+      "summary": "アリーナ諸室 山口知事「隠し部屋ではなく私的利用もない」 | 長崎のニュース | 天気 | NBC長崎放送  TBS NEWS DIG",
+      "date": "2026-10-01T19:48:00+09:00",
+      "date_display": "2026/10/01 19:48",
+      "sort_key": 1790851680.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "4年前の無投票から一転…三つ巴の選挙戦となる公算 長井市長選・山形（さくらんぼテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvYXdtdHVLcnpoQmZHWmFUXzU0c3lPbjBXN1l5WG1pdXRoMmdISTBvcTh1S1lVZ2piWHZJMWNoVE9EV1BSRjNFc2Zwc0pNSGtVSzZIOEtJSlE4WDZZeWZBXzJDS2NacTdzeEE4Unh0Y1YweEJFX2lSUjBNcjlNcnM?oc=5",
+      "summary": "4年前の無投票から一転…三つ巴の選挙戦となる公算 長井市長選・山形（さくらんぼテレビ）  Yahoo!ニュース",
+      "date": "2026-10-01T19:42:02+09:00",
+      "date_display": "2026/10/01 19:42",
+      "sort_key": 1790851322.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "グエン・ドアン・アイン国会副議長が、タインホア省の8つの区で有権者と面会した。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbW95SmRjOURHZ0NCbS1lUWc4OS1YbTVyMGNtYWtMQzVVRWdQUWFfY1RTSVlLWHdqTzdwZjc5YjNvUXEyMzViVEZPdkI5ZVRVdUo0Mkg1UkdTV1N5NXNvM3F4akgtU3NGOWplS2QxemVzMWo1RlA1REI0ZVJLS3ZXcmJHTDNJcVZuYlRGY0RRWENWbDZ0b3BEczJxQVZqRmV2cG1ZVWpB?oc=5",
+      "summary": "グエン・ドアン・アイン国会副議長が、タインホア省の8つの区で有権者と面会した。  Vietnam.vn",
+      "date": "2026-10-01T19:40:53+09:00",
+      "date_display": "2026/10/01 19:40",
+      "sort_key": 1790851253.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "松山市長選 連合愛媛と国民民主党県連が元県議の中野泰誠氏を推薦 政策協定を締結【愛媛】 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVVRuNGtxaHpZTWFiTGFmOHc0VW1tVXN4bHNHYjM1LW1ZRFpOQVhmZnBDM2hIOGlFTnBySHpLU2ZqMDBHRmpoSlJrWnhfUWlOR0lTMGVvNlhRZw?oc=5",
+      "summary": "松山市長選 連合愛媛と国民民主党県連が元県議の中野泰誠氏を推薦 政策協定を締結【愛媛】  TBS NEWS DIG",
+      "date": "2026-10-01T19:28:00+09:00",
+      "date_display": "2026/10/01 19:28",
+      "sort_key": 1790850480.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "10月1日の知事往来（広島・山口・岡山・島根・鳥取） - 中国新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1COWdBa1hjcWU0WTJ4REtiSVhUQVRrakRrekxqZ1JxSXJVQnEwY1c0ajVEQ1IxdDRQMUZIRUxGRW02YW5xbGNaREZwdjNaX3RIUGk2NWJSdVN3QQ?oc=5",
+      "summary": "10月1日の知事往来（広島・山口・岡山・島根・鳥取）  中国新聞デジタル",
+      "date": "2026-10-01T19:21:48+09:00",
+      "date_display": "2026/10/01 19:21",
+      "sort_key": 1790850108.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "「ハイサイグスーヨー」しまくとぅばであいさつ 古謝知事本格始動 市原隼人氏ともずく丼試食 - 沖縄タイムス社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVc1U4dkFVT1poaFZtYzZlNDREemhoLUFYLXhMMENJYlZsbmZ5djFhNnlkZHpHMy1zR1d4ZXpfNnMzMkNsekx4ZFppUE9oOU9uR1JVbnBHSWJBOW12YXc?oc=5",
+      "summary": "「ハイサイグスーヨー」しまくとぅばであいさつ 古謝知事本格始動 市原隼人氏ともずく丼試食  沖縄タイムス社",
+      "date": "2026-10-01T19:19:00+09:00",
+      "date_display": "2026/10/01 19:19",
+      "sort_key": 1790849940.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "熊本市の現職・大西一史市長が4選出馬の意向固める 熊本市長選は11月1日告示・15日投開票（ＫＫＴ熊本県民テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xaUZoTng4LS1BY3JFRW5SRFdrWENFNjBhbHJuVC1xdWFNZ3VjbGdKaGhTSEVUZUNKQWk2S0JMbUtvdmRQNUI1bWxTeXZ0SnRIT0ZyMFd4S21fZkVlWXdOYTZOOS0xSFJ1ZmV3TlVSbW1menVuMlJDVTRUcE1zVHc?oc=5",
+      "summary": "熊本市の現職・大西一史市長が4選出馬の意向固める 熊本市長選は11月1日告示・15日投開票（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "date": "2026-10-01T18:48:00+09:00",
+      "date_display": "2026/10/01 18:48",
+      "sort_key": 1790848080.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "タイ・トゥイ村の有権者は、社会経済開発に関して多くの問題を提起している。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2xHbEo3bUp6LVAtb0ZhMjBLRG9zYkZPS1BqcERPemdTLXVFMTZXM3lVdjcybVZ3TUY1TmR2OTBNUGhpb2gtY0RoWXBEdUd5azdqRXRFWDlwSnhnc1VOMUxnU3k3d3J5RmUyclBJYmMxazNrRVN2YUt2VlpDblF2U0U4SkRLZ1JpTEFQRWl3czlXazE3MUt6a3k2Q3BLZw?oc=5",
+      "summary": "タイ・トゥイ村の有権者は、社会経済開発に関して多くの問題を提起している。  Vietnam.vn",
+      "date": "2026-10-01T18:47:02+09:00",
+      "date_display": "2026/10/01 18:47",
+      "sort_key": 1790848022.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "濵田知事『付き合い方を考える』発言に弁明【高知】（2026年10月1日掲載）｜RKC NEWS NNN - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUVNckVMdkFXWEVjRmxmRjdZYlhQcWw2aVRZOGE3NTFrWmVEeTdoZDZjUXczQkl2TnpGdXcwS2I4dXo0M3d2cFNDOFRacTZMVUZpblczN2F2aFU5bnJQd0lEUVNkb3J2S3NLbGY5MWtqdGs2UllxUGxqOS1WeV9Oc3p6RmE2ZlE?oc=5",
+      "summary": "濵田知事『付き合い方を考える』発言に弁明【高知】（2026年10月1日掲載）｜RKC NEWS NNN  日テレNEWS NNN",
+      "date": "2026-10-01T18:46:00+09:00",
+      "date_display": "2026/10/01 18:46",
+      "sort_key": 1790847960.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "県医師連盟が長崎氏に推薦状、次期知事選 - sannichi.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZU9kV1ZodU41eTlLbFVpb0E0MmQxcUZOMlozUkxEQ2xqU0hSRmRpdC1sbUgwOHZtanR5aUtxal9qckFhOE92QlFkV1JiM3RSeFRyYWM2czZxLUdySF9kbVZ2Zjc?oc=5",
+      "summary": "県医師連盟が長崎氏に推薦状、次期知事選  sannichi.co.jp",
+      "date": "2026-10-01T18:43:44+09:00",
+      "date_display": "2026/10/01 18:43",
+      "sort_key": 1790847824.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "州選出の国民議会代表団は、第16期国民議会の第2会期に先立ち、有権者と面会した。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMk5rYmcwNk45bS1YUjNNUWFpTnFCam05dC03ODlkNktFbkc4VnpqWkJHR1B0bEhEZUROX29admtJaFFpZC04MUJ5NVM3Z2hLdHRjeldOSHFKNmhMLWpDbUV1Z0Q5bGFaLTdJeVJmZjFNTmVFQjhfY2szUGhQNlk5c0REcDhLcnM5Zk9TS3dvWXVQdkRwUlIzNGZzdTNiS09oVEYzSDhYTzNjN0U0?oc=5",
+      "summary": "州選出の国民議会代表団は、第16期国民議会の第2会期に先立ち、有権者と面会した。  Vietnam.vn",
+      "date": "2026-10-01T18:39:28+09:00",
+      "date_display": "2026/10/01 18:39",
+      "sort_key": 1790847568.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "国民議会に提出される内容は、政治的に妥当であり、法的にも妥当であり、綿密な文書化がなされており、かつ実際に実現可能でなければならない。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUZFWWhCYlYtOG5CT0M3aVo0Y01QdFpldFRHV0JtY0pTQ1FycDU5b2x4Nmt6NTFYZ2RVclllOFh4aElCbFZSV2ljSExYZVlDYnlscWJoN0tKMlZRbEduMXBLVVRFSEtlOFQ2RjE3SGNjRVNDUElrMWRvN2l6YzhTdDQyYTBqMmRXMkFuRVVZbVNJdktrM3lRZnd0c2htYkJrZnN3WXdvQW9NcTJsOVMzZWJKQS1wZnBHLThTZUcwdXRINTlJMkE?oc=5",
+      "summary": "国民議会に提出される内容は、政治的に妥当であり、法的にも妥当であり、綿密な文書化がなされており、かつ実際に実現可能でなければならない。  Vietnam.vn",
+      "date": "2026-10-01T18:39:26+09:00",
+      "date_display": "2026/10/01 18:39",
+      "sort_key": 1790847566.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "草の根レベルからの提言には、速やかに対応する必要がある。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Q1JjU2I5U2hpcEstMkNaa3RVYmM5dEtXUjJ0YlUtS2l5VW5KTFhXdGZTZ1I0cDZKS2gxSGJjWXBnWkFLR3FxTzk0VER2QmdvNjduMjlnVmZjdmZEQjZwaHlmeU1zemJQeW9qdXVoaEh0UVhoaEZKY2FsNC1IQQ?oc=5",
+      "summary": "草の根レベルからの提言には、速やかに対応する必要がある。  Vietnam.vn",
+      "date": "2026-10-01T18:39:25+09:00",
+      "date_display": "2026/10/01 18:39",
+      "sort_key": 1790847565.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "知事らが協力呼びかけ 「赤い羽根共同募金」／埼玉県（テレ玉） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSUFzaDkycUlHck96VFhYc1M0X3AxWWRHWTVQZ2NzcWI1ZTl5VVZJaWNxdjBGM1NEX3N5bV82eGlmOVFTakU2MkhORXFlRjNtWkFMY2JoRkgwcVVjV245eEN2dWdvWHRTc3JCVmpjQ1pwZl9RT3hqSGlmd0tEOG8?oc=5",
+      "summary": "知事らが協力呼びかけ 「赤い羽根共同募金」／埼玉県（テレ玉）  Yahoo!ニュース",
+      "date": "2026-10-01T18:38:09+09:00",
+      "date_display": "2026/10/01 18:38",
+      "sort_key": 1790847489.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "神戸市垂水区で民家火災、2階の一部焼く|事件・事故 - 神戸新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51OS14Q1cwUXVMZmtRWTNUYWEtSXh2dXZFSVJseWhQSVdZdk9QWWM5ZDVhLV95Mi1zY01lOXhVNS01WVlrcEpuaW1KOGVYZEtoMDRnV25NX3B0UnhCdVlmQTVIdFZQTW41U1o0Zw?oc=5",
+      "summary": "神戸市垂水区で民家火災、2階の一部焼く|事件・事故  神戸新聞",
+      "date": "2026-10-01T18:37:00+09:00",
+      "date_display": "2026/10/01 18:37",
+      "sort_key": 1790847420.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "群馬・高崎市長選 来年春 富岡賢治さんが出馬表明（群馬テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZWN6THA5UERnTUhndG40X2dMWk5rNDJhdVJzMkU5Z2hDODhTTWxyQmxIbVlhZnJ1MlM1d2toVlB4WVpUa3kteEJXSk8yWk1VeGhIbWFwV093eTFOYko4TGlvUmJwRDk5cXh5ekNQdGROSklJZ1pyUGZZUFZ4NmM?oc=5",
+      "summary": "群馬・高崎市長選 来年春 富岡賢治さんが出馬表明（群馬テレビ）  Yahoo!ニュース",
+      "date": "2026-10-01T18:32:26+09:00",
+      "date_display": "2026/10/01 18:32",
+      "sort_key": 1790847146.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "【速報】11月の熊本市長選 大西一史市長が出馬へ「意向固めた」（4） - KAB 熊本朝日放送",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSlFHLTJuc1ZFa19KYjFUaUE3ZHNtRXJUdklpLUxYSDlObGNCd2dGTTZRN0Z2RkwtbGY4OXR1Wm53c01aUF9VUThiUURJcTgxQVhUaFFUeWYyRXhSNk00WnZB?oc=5",
+      "summary": "【速報】11月の熊本市長選 大西一史市長が出馬へ「意向固めた」（4）  KAB 熊本朝日放送",
+      "date": "2026-10-01T18:32:07+09:00",
+      "date_display": "2026/10/01 18:32",
+      "sort_key": 1790847127.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "佐賀 山口知事 一部週刊誌報道を否定“私的な利用一切ない” - news.web.nhk",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FRXZQbzl4RTdGYU56enFmRUx3ck44YnhBNGFJSmxoM1Uyc01mazY2SE5JazF6cVhKT2dSdDNPOUhLQ0hpTWZheEZSZmVEYjNoLVlMOFNNY3c?oc=5",
+      "summary": "佐賀 山口知事 一部週刊誌報道を否定“私的な利用一切ない”  news.web.nhk",
+      "date": "2026-10-01T18:17:00+09:00",
+      "date_display": "2026/10/01 18:17",
+      "sort_key": 1790846220.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "沖縄・宜野湾市の女性殺害 死因は首の刺切創による失血死 首などに複数の刺し傷 - 沖縄タイムス社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVnIwZjA5NDNTaEloRDV0cGpkNGRta09MYkQ2SVptWG1KLU9MVDNGem1zVmJ3YTF6REpzVG4zY1Fwb0FGV3JDbEFLTjBZLWVvNXdKdjRlVWZES2VwVmc?oc=5",
+      "summary": "沖縄・宜野湾市の女性殺害 死因は首の刺切創による失血死 首などに複数の刺し傷  沖縄タイムス社",
+      "date": "2026-10-01T18:12:00+09:00",
+      "date_display": "2026/10/01 18:12",
+      "sort_key": 1790845920.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "SAGAアリーナに“隠し部屋”？山口知事「私的利用は決してない」と否定【佐賀県】｜佐賀のニュース - サガテレビ",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nXzYwRzN0SEFOVm1DSE41WXNQLW9YdGFYTVl4MGV1a0JubWxXd3BVNVNaYW9hQ09wZy1CZzV5eTN5dXhHdkRKTC0xbGRXY2NLVkx6T3k0amNRSmRWWDBzamJ3?oc=5",
+      "summary": "SAGAアリーナに“隠し部屋”？山口知事「私的利用は決してない」と否定【佐賀県】｜佐賀のニュース  サガテレビ",
+      "date": "2026-10-01T18:11:00+09:00",
+      "date_display": "2026/10/01 18:11",
+      "sort_key": 1790845860.0
+    },
     {
       "source": "Yahoo!ニュース 国内",
       "title": "早紀江さん 拉致巡り「いらだち」",
@@ -9,6 +261,24 @@
       "date": "2026-10-01T18:08:46+09:00",
       "date_display": "2026/10/01 18:08",
       "sort_key": 1790845726.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "タブレットによる電子投票 東海地方初 紙の投票よりも開票作業時間を短くできる 職員の働き方改革に期待 岐阜･美濃加茂市議会議員選挙 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GUW1WTzZmYU92R2VDMlIwS1ZSNk5MNGk0UE5uQmR2bnI3Mjh1bENMWVpqXzhVRWVUU0I3ZFB1dXdEdmkwUEpiN0trWWZWMmNRR0JGeE9sNWIxS3I3?oc=5",
+      "summary": "タブレットによる電子投票 東海地方初 紙の投票よりも開票作業時間を短くできる 職員の働き方改革に期待 岐阜･美濃加茂市議会議員選挙  Infoseek",
+      "date": "2026-10-01T18:07:00+09:00",
+      "date_display": "2026/10/01 18:07",
+      "sort_key": 1790845620.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "消防広域化 知事“離脱表明の須崎市に復帰を働きかけていく” - news.web.nhk",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96OWwwRWJiRHNSNmpibE8zTjB1T0pVZ0x5bXVpb2lEbVRlVXRjdFNGSzdBekVuWnFPZmMxQjQybVRDMWR3bG80emN2RFVmdFFaRkNRYjV0ZVE?oc=5",
+      "summary": "消防広域化 知事“離脱表明の須崎市に復帰を働きかけていく”  news.web.nhk",
+      "date": "2026-10-01T18:03:00+09:00",
+      "date_display": "2026/10/01 18:03",
+      "sort_key": 1790845380.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -27,6 +297,15 @@
       "date": "2026-10-01T17:55:00+09:00",
       "date_display": "2026/10/01 17:55",
       "sort_key": 1790844900.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "古謝氏が沖縄県知事に就任 - PHARMACY NEWSBREAK",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zdGJkMXJnTE1xM1hDM0lKQzFmYkFablBIZUVxVzBQUFdxSng1OXduSUxuM2U1dFQ5OXhJRUl6NC1MaVFtNzJmeTFVQzN4MG_SAU9BVV95cUxOc3RiZDFyZ0xNcTNYQzNJSkMxZmJBWm5QSGVFcVcwUFBXcUp4NTl3bklMbjNlNXRUOTl4SUVJejQtTGlRbTcyZnkxVUMzeDBv?oc=5",
+      "summary": "古謝氏が沖縄県知事に就任  PHARMACY NEWSBREAK",
+      "date": "2026-10-01T17:48:22+09:00",
+      "date_display": "2026/10/01 17:48",
+      "sort_key": 1790844502.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -48,51 +327,6 @@
     },
     {
       "source": "Google ニュース検索:知事",
-      "title": "笹川環境相が村井知事と面会 予算確保などでクマ対策支援へ - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LcnhHUU5PSlFzaFF2NXNQdVB3bnhmRGI5cmxHQ2ltdlJvM0MzOVNaQzVOeWpEbnhXanRMb3RWeUZfc1VvdGphNHlwNWt0VF9iYXZkcXJqekU?oc=5",
-      "summary": "笹川環境相が村井知事と面会 予算確保などでクマ対策支援へ  NHKニュース",
-      "date": "2026-10-01T17:37:00+09:00",
-      "date_display": "2026/10/01 17:37",
-      "sort_key": 1790843820.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "新人・岡和久氏が出馬表明・・・熊本市長選｜くま経 フォトレポート - kumamoto-keizai.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDVwaUtDVnd4Sl9acDVNNTBVNzZiMHdQSUEzcm5NSUVVWVRGa25rbTdBb2h5c1Zpd1B3T3o2ZTBFVE5Dd2lqbEE3WnI3Y0ZEdlpjQ2k3UUhXMFVaZkp6X2NEMWp0QkI0RHFhUWhtNDExMU1rVTB2SkVzaGhjOVd0U1NydXAyOUpWYVBXSEZ4bTh6T2FFUUdIOW5SYU5YeC1nMGItNzU2ejBlYV9q?oc=5",
-      "summary": "新人・岡和久氏が出馬表明・・・熊本市長選｜くま経 フォトレポート  kumamoto-keizai.co.jp",
-      "date": "2026-10-01T17:30:34+09:00",
-      "date_display": "2026/10/01 17:30",
-      "sort_key": 1790843434.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "中野泰誠氏に国民民主党県連・連合愛媛が推薦状 松山市長選 ８０超の企業・団体も対応へ【愛媛】（テレビ愛媛） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1halUxQWpZb0NvZHdoM0R0QVJKZmxZMzFGNThQNm9Id3A1bDdJYkt2REt3Q01pNjM5dk54YmFIUnMxTVBuOUpOcmNYXzlaWmN0anFxSnNPR3BtTDJSWXh4NlVGY2VjMkNvZGdYXzhDZmgyY0N0cFk3dFVBWUpVOHc?oc=5",
-      "summary": "中野泰誠氏に国民民主党県連・連合愛媛が推薦状 松山市長選 ８０超の企業・団体も対応へ【愛媛】（テレビ愛媛）  Yahoo!ニュース",
-      "date": "2026-10-01T17:26:01+09:00",
-      "date_display": "2026/10/01 17:26",
-      "sort_key": 1790843161.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "新たな宮城県武道館は「平屋」も視野 村井知事「コストを抑える意味で」（河北新報） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsQ3M4S3lYejIxVFBDVDFQYXpndjRFa1FVMkpYbjlydTBQUUxiQzB1OHRHaU1FNjlGSXJGaGpUc2cwUUd1NDVZeFRWYzM0VXVoeDFjVlFtXzNkQUVFZENGU1ppamljSHlUd3I1dUNyUzAxZUZZOXkyWlY0RlRpcG8?oc=5",
-      "summary": "新たな宮城県武道館は「平屋」も視野 村井知事「コストを抑える意味で」（河北新報）  Yahoo!ニュース",
-      "date": "2026-10-01T17:25:38+09:00",
-      "date_display": "2026/10/01 17:25",
-      "sort_key": 1790843138.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "田中康夫氏が横浜市長選に不出馬表明 辞職の山中竹春氏に前回敗北、待望論「心より感謝」 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16aVlQTFZKbktJZ3Y3b3VUc1h6NThrdXkzOFRIdDgzUGx1ZXgxdl96YjNtZFM2NXlhSVNMUUJyRW5DNHZ3bEdRejhBOVhUVjZ0MlJiZ2p3UllyMlRNa3dFRlpETW9xd20ySnNjTGJmYkdHNW9HSmc?oc=5",
-      "summary": "田中康夫氏が横浜市長選に不出馬表明 辞職の山中竹春氏に前回敗北、待望論「心より感謝」  産経ニュース",
-      "date": "2026-10-01T17:15:43+09:00",
-      "date_display": "2026/10/01 17:15",
-      "sort_key": 1790842543.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
       "title": "TSMC効果狙う大分県、知事自ら台湾で企業誘致 「熊本に47分」強調 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSk16a0F2M3M4ODM2aDc5cDJuaXJmeWZOX0JwMG9kdk5fQWVIQTFjWEJrY3U3Wk1JZEUtZHppN2cxU0RNS2JBUDJDZjZIRkpmRXVjejBkdWhCcWlXRmYzRUF2ekFDX2dERUR1dQ?oc=5",
       "summary": "TSMC効果狙う大分県、知事自ら台湾で企業誘致 「熊本に47分」強調  日本経済新聞",
@@ -101,22 +335,13 @@
       "sort_key": 1790841247.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "愛媛県知事選 前哨戦活発化【愛媛県】（eat愛媛朝日テレビ） - Yahoo!ニュース",
+      "source": "Google ニュース検索:市長選",
+      "title": "松山市長選 前哨戦活発化【愛媛県】（eat愛媛朝日テレビ） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PVkduWEsyNmZXYkp4X0JDbHFBNTZuWlVMZmhPakFLWWxJbWZvcHVuck1lNFBwbHdCT1gtMmlNY1dEcVNnbDhJZm9mVFkxTFRUb2Nvc0NSeTRaN0NSbmVCY0U2V2FIQzdLUDhSNEw3X3JvQnptU0tBYWppN214OFE?oc=5",
-      "summary": "愛媛県知事選 前哨戦活発化【愛媛県】（eat愛媛朝日テレビ）  Yahoo!ニュース",
+      "summary": "松山市長選 前哨戦活発化【愛媛県】（eat愛媛朝日テレビ）  Yahoo!ニュース",
       "date": "2026-10-01T16:53:36+09:00",
       "date_display": "2026/10/01 16:53",
       "sort_key": 1790841216.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "石木ダム建設めぐり長崎県知事の「意見を聞く会」 佐世保市長は水不足で企業誘致進まず、人口減少も加速と訴え - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBQzdvdUJEUmdReHhSWndsV2dDQmM3d05SQjFBNHFmeUZfdmhfVmladVI0d1VKQXlkYkcxbjBzdm8zenpuV2FURTRnN21WU1FNc0NWb283ejJJOUZySmI2bFEtbVZOQ1AyQ1ZLaUZiQTVsdVN0QjFYdU9reVcxUFk?oc=5",
-      "summary": "石木ダム建設めぐり長崎県知事の「意見を聞く会」 佐世保市長は水不足で企業誘致進まず、人口減少も加速と訴え  Yahoo!ニュース",
-      "date": "2026-10-01T16:49:01+09:00",
-      "date_display": "2026/10/01 16:49",
-      "sort_key": 1790840941.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -126,15 +351,6 @@
       "date": "2026-10-01T16:47:52+09:00",
       "date_display": "2026/10/01 16:47",
       "sort_key": 1790840872.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "女性の死因は失血死 宜野湾市嘉数の殺人事件 沖縄 - 琉球新報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UY012V1FyY2tDQjB6a05kcXFKamdpWTF5Nm42SkRmSm80Zm54VFY2b0otXzRIempLWHhJbnBuRW5KY0tRX1hwWDNtUHNhZklPVXItcmtIb29JR2M?oc=5",
-      "summary": "女性の死因は失血死 宜野湾市嘉数の殺人事件 沖縄  琉球新報デジタル",
-      "date": "2026-10-01T16:42:43+09:00",
-      "date_display": "2026/10/01 16:42",
-      "sort_key": 1790840563.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -147,12 +363,21 @@
     },
     {
       "source": "Google ニュース検索:市長選",
-      "title": "来年５月任期満了 高崎市長選 富岡氏５期目目指し立候補表明 - NHKニュース",
+      "title": "来年５月任期満了 高崎市長選 富岡氏５期目目指し立候補表明 - news.web.nhk",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLQzlGMHEwMXVYV3A3cUEwOVVPX2x4TkpoNWZLZ3BFckxzcGNZWmVaUmQ3OGZJRTBlc0RzZU5iRU1Xb3hPLU52Z3ZUSUpXcjdaLTRlQzlzcUQ?oc=5",
-      "summary": "来年５月任期満了 高崎市長選 富岡氏５期目目指し立候補表明  NHKニュース",
+      "summary": "来年５月任期満了 高崎市長選 富岡氏５期目目指し立候補表明  news.web.nhk",
       "date": "2026-10-01T16:20:00+09:00",
       "date_display": "2026/10/01 16:20",
       "sort_key": 1790839200.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "アルビレックス新潟レディースの山本社長、阪倉新監督及び選手５名が知事を表敬訪問しました - pref.niigata.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3dHc25FSWhZSW93MkhyZUttTW5LbEc5Skg0d192VFkxemxtTVphdjNJMkZaakliZ0NrRUVTU2Qzd2JGLS13UGZ3Z3AyZ0ZuNmZDNUhFZHlNX2ZlY0pfUG5zQWg1SmxfckhHUjE2c1pCR0t5VlpvclJvUTJ0Nnd4eGQ4NUpYdHZvZTc4c3hWakRVTUtl?oc=5",
+      "summary": "アルビレックス新潟レディースの山本社長、阪倉新監督及び選手５名が知事を表敬訪問しました  pref.niigata.lg.jp",
+      "date": "2026-10-01T16:09:15+09:00",
+      "date_display": "2026/10/01 16:09",
+      "sort_key": 1790838555.0
     },
     {
       "source": "Google ニュース検索:知事",
@@ -182,13 +407,13 @@
       "sort_key": 1790836417.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "玉城デニー沖縄知事が退任会見 任期満了、辺野古反対で国と対立 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ld3E0bllzQVRqY0dYTFYzLVk0NHc2MDNaclVCOEhxY2trdTVHQVNWbm1fWHgzTnhtMTMtTWpjN2VOb1lLVkxUZFlocW93UlhVOGc?oc=5",
-      "summary": "玉城デニー沖縄知事が退任会見 任期満了、辺野古反対で国と対立  山陽新聞",
-      "date": "2026-10-01T15:06:40+09:00",
-      "date_display": "2026/10/01 15:06",
-      "sort_key": 1790834800.0
+      "source": "Google ニュース検索:市長選",
+      "title": "田中康夫氏が横浜市長選に不出馬表明 辞職の山中竹春氏に前回敗北、待望論「心より感謝」 - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16aVlQTFZKbktJZ3Y3b3VUc1h6NThrdXkzOFRIdDgzUGx1ZXgxdl96YjNtZFM2NXlhSVNMUUJyRW5DNHZ3bEdRejhBOVhUVjZ0MlJiZ2p3UllyMlRNa3dFRlpETW9xd20ySnNjTGJmYkdHNW9HSmc?oc=5",
+      "summary": "田中康夫氏が横浜市長選に不出馬表明 辞職の山中竹春氏に前回敗北、待望論「心より感謝」  産経ニュース",
+      "date": "2026-10-01T15:17:44+09:00",
+      "date_display": "2026/10/01 15:17",
+      "sort_key": 1790835464.0
     },
     {
       "source": "Yahoo!ニュース 国内",
@@ -200,31 +425,13 @@
       "sort_key": 1790832006.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "大分 佐藤知事が知事選へ立候補なら自民大分県連が支援の意向 - NHKニュース",
+      "source": "Google ニュース検索:市長選",
+      "title": "大分 佐藤知事が知事選へ立候補なら自民大分県連が支援の意向 - news.web.nhk",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0QnJreDRfcVJrWEJKSk9WQWhsOFlvcFhDSFFuYzhTU244bERHTmhqeWJJbGtXZ0tuR0JYbElueFROZVVKR081dWhtX05xYW1fSkRVSUJJU2Q?oc=5",
-      "summary": "大分 佐藤知事が知事選へ立候補なら自民大分県連が支援の意向  NHKニュース",
+      "summary": "大分 佐藤知事が知事選へ立候補なら自民大分県連が支援の意向  news.web.nhk",
       "date": "2026-10-01T13:40:00+09:00",
       "date_display": "2026/10/01 13:40",
       "sort_key": 1790829600.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "ベトナムとスイス間の包括的なパートナーシップを深化させる。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEtlNkJoYWJOeXliSkMxQ3Y3UW0zcTlZczhXWHRFNmdLZUxEa2lFRnpjMlhoc204M1NIQkZSWG1ROS1XNTdwRnVGck1pd1htWHBTMFpONmdIcGNqQXR4eDY4QTBLWjJHdzJuOUNINjZjZWFIUnUtMktGYWhNTElaanpFR1hINm8?oc=5",
-      "summary": "ベトナムとスイス間の包括的なパートナーシップを深化させる。  Vietnam.vn",
-      "date": "2026-10-01T13:20:49+09:00",
-      "date_display": "2026/10/01 13:20",
-      "sort_key": 1790828449.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "第5地域（ソンラ州）の人民検察庁は、生徒への法的情報の普及を強化しています。安全な学校づくりに向けて協力し、国民議会決議第205/2025/QH15号の実施に関する情報を普及させ、交通安全法の普及、教育、遵守に関する調整規則に署名しました。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxObHFSR2otVVNoczYyWU5rR0lvdTRTMUNzZm9SS09zekN6ZUpOOTNRUGsydFF6cGxERXpBUjhCN1pheUJUbUdiQWRLNFpGMVBZYzBxamVJNnRDb1ZtaVF0TS1xUklrQk5oUkpQQklLczVFcGdINE04NGE3bTJWeWs1NjRpZm85RkJ2NmRoWEFLbUk3YWp6bGlqYWJXT3Bpbmo1T0Y2T1Y3VzlyTU9YNnBNbVYtamU1cmJkQ3hZV2dhVzBQd3IxZWFPWUlIcjFkODFTdGRGLURsLWM5cUZHZmpNMU1hQUdnRGFaWV9rMGFjZkFGSjJOeDFhanRDTjZnZ255OWdwV3lRVzB1ZmxSd21TbXhQXzBJMTE3M2M4VEh1c2FuWUh2NVpRbUNTQkFBUFR3UGtqVVVoc2EwM3FUZk1SdjM5Snk4RHpYUlgteHoxeVFWSndNZFFaMkl5VUcwS0w2WTNUNDg3LXJ0b3hhS25wRFJQQWJPbzV2N0RkRlN3dl95eS1LRHUydFExR0tTTl9qYjhrLURhOVVGSGl1VEVBQTg4YTZLQXZGTXlBTnBmV0R1aTd0bG1Dc2xiaUgxTXZ4d0dWMkVBRUt0azdaalBlT1BEZkVocVNQOHFZX1FLVUFKSXdidy05MS13?oc=5",
-      "summary": "第5地域（ソンラ州）の人民検察庁は、生徒への法的情報の普及を強化しています。安全な学校づくりに向けて協力し、国民議会決議第205/2025/QH15号の実施に関する情報を普及させ、交通安全法の普及、教育、遵守に関する調整規則に署名しました。  Vietnam.vn",
-      "date": "2026-10-01T13:16:22+09:00",
-      "date_display": "2026/10/01 13:16",
-      "sort_key": 1790828182.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -245,24 +452,6 @@
       "sort_key": 1790826339.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "栃木知事「周辺自治体にも説明を」 常陸大宮の核ごみ問題 - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sOGxFbXNhejhDaDFtaDJDbWdwTTlERzRRQUhxWGx0dHhiNDhHRmJOeDk2OU1iSjJDajhVYmZ4UlFIQl9sdzl2ZGpxbjNxMm5CdDZyU3VCLUYyZHNSVC1KOWhJVzRXbjU2?oc=5",
-      "summary": "栃木知事「周辺自治体にも説明を」 常陸大宮の核ごみ問題  毎日新聞",
-      "date": "2026-10-01T12:45:00+09:00",
-      "date_display": "2026/10/01 12:45",
-      "sort_key": 1790826300.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "沖縄 古謝知事就任に伴い「辺野古新基地建設問題対策課」廃止 - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBESFRTOEVITUdLQmI5U1dIbmJVVlZnQ1Q2QVY5WkRucEx1R0ZVNXJ1TzBZXzF2X0ZvZUZ1YVVSeDBlYThQckptU1U1amFtOExRMGJBcFZObGpfTTNuRkFN?oc=5",
-      "summary": "沖縄 古謝知事就任に伴い「辺野古新基地建設問題対策課」廃止  NHKニュース",
-      "date": "2026-10-01T12:43:34+09:00",
-      "date_display": "2026/10/01 12:43",
-      "sort_key": 1790826214.0
-    },
-    {
       "source": "Google ニュース検索:市長選",
       "title": "熊本・荒尾市長選 11月15日投開票 - 熊本日日新聞社",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FMmFiUHl1Y0JMWWFlSFR3V09xajc3WHB2Tl9QTmVuSkhUTzRsM2ZPWjdoSXRvSlcwZU1hNXN4NnRib0RpeV9nY2ozZzRhNFE?oc=5",
@@ -272,67 +461,22 @@
       "sort_key": 1790824270.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "知事「トキエア」から融資返済猶予の相談 “適切に判断” - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xOEJGcGVqaWpMUlppUnY5YjUySW1Oa2VkREFvSzNpcDFkdlZNbzZIQkR4cGpLcS1kWW01RGEwbno0UC1WY2hraTdrTXI4RnVHMVNzUFRuaEc?oc=5",
-      "summary": "知事「トキエア」から融資返済猶予の相談 “適切に判断”  NHKニュース",
-      "date": "2026-10-01T12:02:00+09:00",
-      "date_display": "2026/10/01 12:02",
-      "sort_key": 1790823720.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "赤い羽根共同募金スタート 福井駅周辺では副知事やボランティアが協力呼びかけ 市町の窓口で年度末まで受け付け - 福井テレビ",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JMkdhNTJ4N2NBVEd4djhVX1haZzN3Z0Z5bnVlakZaQm4wNDNFTHZvRGJGZ3l5SGtxb0t3R2hZdU1saGE3REg5eUNTWnkyaXpVRHRNVGVLSm5WVVhrUmhVYmZxa3ZWM3FW?oc=5",
-      "summary": "赤い羽根共同募金スタート 福井駅周辺では副知事やボランティアが協力呼びかけ 市町の窓口で年度末まで受け付け  福井テレビ",
-      "date": "2026-10-01T11:45:00+09:00",
+      "source": "Google ニュース検索:地方議会",
+      "title": "神奈川県の全33市町村、事業所の災害の想定を“まちごと”に。中小企業の防災・BCPサイト「防災経営」を公開 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OZ3lmd2NxRzFYbXQtNFp5TjFoT1otWDFrLU93T3hGUXR2anF2QXJmVl9ZYnBRVGVLbnR1dmk0TjdJOGlXY1Z2WW5lSVJaRlRiYkZPVmdRS3FHZkdrMEdPQk1odTIySDNIcHd5Q055bXBzZw?oc=5",
+      "summary": "神奈川県の全33市町村、事業所の災害の想定を“まちごと”に。中小企業の防災・BCPサイト「防災経営」を公開  Infoseek",
+      "date": "2026-10-01T11:45:37+09:00",
       "date_display": "2026/10/01 11:45",
-      "sort_key": 1790822700.0
-    },
-    {
-      "source": "Yahoo!ニュース 国内",
-      "title": "台風27号が発生 来週にかけ北上か",
-      "link": "https://news.yahoo.co.jp/pickup/6597147?source=rss",
-      "summary": "",
-      "date": "2026-10-01T11:19:19+09:00",
-      "date_display": "2026/10/01 11:19",
-      "sort_key": 1790821159.0
+      "sort_key": 1790822737.0
     },
     {
       "source": "Google ニュース検索:市長選",
-      "title": "福岡市長選告示まで１か月 再選挙の可能性を指摘する声も - NHKニュース",
+      "title": "福岡市長選告示まで１か月 再選挙の可能性を指摘する声も - news.web.nhk",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45cS01RGpOTDNQWjkxcWoydW9WMlRiWGp2eFZGSlB0R1hhLTFEQlF0dlFjRnQxb2VVbTJQMkxRendBbjRteEVadl9FQWsxd1pjWllmbmRzcUU?oc=5",
-      "summary": "福岡市長選告示まで１か月 再選挙の可能性を指摘する声も  NHKニュース",
+      "summary": "福岡市長選告示まで１か月 再選挙の可能性を指摘する声も  news.web.nhk",
       "date": "2026-10-01T11:14:00+09:00",
       "date_display": "2026/10/01 11:14",
       "sort_key": 1790820840.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "２０２６ふくしま知事選 投票用紙を発送 県庁から事務局へ - 47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FQ2k4b1Bqa1Fqa19iMTNUVk9PM2pxV2NrUW05dGMyNmV0aUVrcm9KcGlSYVFVNFZleU5TSkRHaDVUdlJWZS1xRU05QQ?oc=5",
-      "summary": "２０２６ふくしま知事選 投票用紙を発送 県庁から事務局へ  47NEWS",
-      "date": "2026-10-01T11:00:00+09:00",
-      "date_display": "2026/10/01 11:00",
-      "sort_key": 1790820000.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "２０２６ふくしま知事選 投票用紙を発送 県庁から事務局へ - minpo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZjRVcnYyNzM4dHlwNDFnMkVLeDBNbV9tbDM3ZVhZNHdpV2JPV0xaM3dUVXRmQlR0Si1PZDNrX1FpbHNYdExGRXdEaW5rbnM?oc=5",
-      "summary": "２０２６ふくしま知事選 投票用紙を発送 県庁から事務局へ  minpo.jp",
-      "date": "2026-10-01T11:00:00+09:00",
-      "date_display": "2026/10/01 11:00",
-      "sort_key": 1790820000.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "２０２６ふくしま知事選 新人金山氏 公約を発表 - 47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tUk9GcV9oMldYVDBLVm5adjVvdnBUdmJuejE2RHR2Mk5uZ0lfeWJSejJpNjRtWENZal9BbzF4VzMzLWJqSG5FcVhURQ?oc=5",
-      "summary": "２０２６ふくしま知事選 新人金山氏 公約を発表  47NEWS",
-      "date": "2026-10-01T11:00:00+09:00",
-      "date_display": "2026/10/01 11:00",
-      "sort_key": 1790820000.0
     },
     {
       "source": "Google ニュース検索:知事",
@@ -353,13 +497,13 @@
       "sort_key": 1790816403.0
     },
     {
-      "source": "Google ニュース検索:市長選",
-      "title": "滝沢市長選、奥津一俊氏が出馬へ - 岩手日報",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94MGZSdnQ4UGRhT201LTBYU1N3Ukl1LXh6bGtlV3ljMUpiNHlBaWsyWFJ6VGNUSHVNdXVzWlhKUmEybjhvZHlaX0ZPN1E2blJSOGxPam52UVljVHZwRjA1Nw?oc=5",
-      "summary": "滝沢市長選、奥津一俊氏が出馬へ  岩手日報",
-      "date": "2026-10-01T09:11:00+09:00",
-      "date_display": "2026/10/01 09:11",
-      "sort_key": 1790813460.0
+      "source": "Google ニュース検索:地方議会",
+      "title": "官民連携の総合展示会「自治体総合フェア」 出展企業・団体の募集を開始いたします！ - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50Mm1vemVSclQ4Ym1LV0E1cVFBZmxINWRvdDlhdnVEM24wRkV4TzZVWml0VTAzc1V4VDBURERFSjYtS1kxajVyRmZGaXlsSHcwaFlvdFBJRjFXWnlVNHNDeG52OUk2bDF3ckZwMklzMVcxUQ?oc=5",
+      "summary": "官民連携の総合展示会「自治体総合フェア」 出展企業・団体の募集を開始いたします！  Infoseek",
+      "date": "2026-10-01T10:00:00+09:00",
+      "date_display": "2026/10/01 10:00",
+      "sort_key": 1790816400.0
     },
     {
       "source": "Google ニュース検索:市長選",
@@ -371,13 +515,13 @@
       "sort_key": 1790813415.0
     },
     {
-      "source": "Google ニュース検索:市長選",
-      "title": "【速報】11月の熊本市長選 大西一史市長が出馬へ「意向固めた」（熊本ニュース KAB ONLINE） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UVFsN0N3bVdjeFlrbDdCQTdNWmNLeFNqaUR1M2pONUhXZEpXOUVPdWVwalhER29EcTAzY2t2Uk1pWVM0aERuNjBjYmYwZ3VkSG9mQk5kSmF4SkhFZXB4a3BIb0ZGenREdEF3a3NaMDlkMDFtTV9mSm5sYzdfQWc?oc=5",
-      "summary": "【速報】11月の熊本市長選 大西一史市長が出馬へ「意向固めた」（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
-      "date": "2026-10-01T09:08:16+09:00",
-      "date_display": "2026/10/01 09:08",
-      "sort_key": 1790813296.0
+      "source": "Google ニュース検索:知事",
+      "title": "令和８年人事委員会報告および勧告を知事が受けました - pref.fukuoka.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpQkVyVWdiRl9PTkJJY3llNldEZ2QzcFhiMHhmOXRkYk1ZMDJ0MUVNSlo4bU9tNnd3R3ZqLUpWeHdjWlkweU5XZGU0ZGkzUVY4MVI5Rk5IM1BSWDJlZ0lHZDhXVWYtU2UtTXQ1QzVnR21YelFIeHA1NEk2SVk?oc=5",
+      "summary": "令和８年人事委員会報告および勧告を知事が受けました  pref.fukuoka.lg.jp",
+      "date": "2026-10-01T08:52:46+09:00",
+      "date_display": "2026/10/01 08:52",
+      "sort_key": 1790812366.0
     },
     {
       "source": "Yahoo!ニュース 国内",
@@ -399,15 +543,6 @@
     },
     {
       "source": "Google ニュース検索:知事",
-      "title": "台風25号 知事、養老渓谷と高滝湖視察「応援したい観光地に」 - 東京新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhYzB3MkFaUXZ3ZjFfcjdaTjNSdkVzVVJEZ0RTektwY0hTbnVhQVNXak12WTRlX1JMb0dqdlVveWVmbmN6dDJyZmlQeWFBQnp1NUFZ?oc=5",
-      "summary": "台風25号 知事、養老渓谷と高滝湖視察「応援したい観光地に」  東京新聞",
-      "date": "2026-10-01T07:46:33+09:00",
-      "date_display": "2026/10/01 07:46",
-      "sort_key": 1790808393.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
       "title": "福島県知事選６氏の争いか、共産系近く公表へ 告示まで1週間:福島ニュース - 福島民友新聞社",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hcDREcFlpVlRGT0w1ZXBxVDlXYUQzTnI4ZmJSTndfMHp6ajJKRlhsUUhDUDdpWlFjX1hTVG9hQy10RkxoeE9ndVdvZlhMb2IzaHpPRnNLbkduTUJQUVRIQ2ZyS1RNYXA5?oc=5",
       "summary": "福島県知事選６氏の争いか、共産系近く公表へ 告示まで1週間:福島ニュース  福島民友新聞社",
@@ -425,15 +560,6 @@
       "sort_key": 1790806336.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "佐賀県・山口祥義知事が利用「隠し部屋」がSAGAアリーナにあった！「県費“257億円”をかけた施設内で飲み会」「焼酎、日本酒、おしゃれなグラスも…」 (文春オンライン) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY29EM2dPbG1PUlVJWGpCMGZZOHpINE5fNFA1YVZqZ29pOUZ5b2szRzVCc0xRejVJTGhqdFJMNmxaclpXbHA5dlBXSmRwRUNzWUFHek9QbzFENElzckJSbENaTHB5cDI4VFhBQ05NZ2UyYzVpVDlkX2w1RDAtSmM2TFNnRk9GWUViaDZoNERR?oc=5",
-      "summary": "佐賀県・山口祥義知事が利用「隠し部屋」がSAGAアリーナにあった！「県費“257億円”をかけた施設内で飲み会」「焼酎、日本酒、おしゃれなグラスも…」 (文春オンライン)  Yahoo!ニュース",
-      "date": "2026-10-01T07:12:16+09:00",
-      "date_display": "2026/10/01 07:12",
-      "sort_key": 1790806336.0
-    },
-    {
       "source": "Google ニュース検索:地方議会",
       "title": "モロッコで歴史を作った女性の肖像 - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzY2xrWG9CYlpUcV9Id3NJT014MlVvbC1wUXhnSXZKUl9WZDRRNllIb3plYTNQU2xQX1U0Y0lCcTR2R1FBLV9qYzZHYXRpOUpBUVp3aGs1eE9WQ3N4SzR1N2dmS2pDaU80QldBZm9FRVJBM1lhbDBrQWFTNTc?oc=5",
@@ -441,33 +567,6 @@
       "date": "2026-10-01T07:09:26+09:00",
       "date_display": "2026/10/01 07:09",
       "sort_key": 1790806166.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "佐賀県・山口祥義知事が利用「隠し部屋」がSAGAアリーナにあった！「県費“257億円”をかけた施設内で飲み会」「焼酎、日本酒、おしゃれなグラスも…」《写真入手》 - 文春オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6QXA0U01ralVnVnYweGRoNUxGRGpSWE5ZakF3OGZRSXhNZ2JYQ2dxdFRHbkw0ZVFUbTBmbHVXa0VrY1VGV2ZMVnBYNA?oc=5",
-      "summary": "佐賀県・山口祥義知事が利用「隠し部屋」がSAGAアリーナにあった！「県費“257億円”をかけた施設内で飲み会」「焼酎、日本酒、おしゃれなグラスも…」《写真入手》  文春オンライン",
-      "date": "2026-10-01T07:00:00+09:00",
-      "date_display": "2026/10/01 07:00",
-      "sort_key": 1790805600.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "福島県知事選 現新５人立候補表明 告示まであと１週間 - minpo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CY3hQVlhzVi1VVXJVTG9sSlRaYUdqcVhWazF5aWUxTmtfOW5MampzNmxJNHVVRUdCYmdLdzlPY2stUFpESDFkS28zdmpTVjg?oc=5",
-      "summary": "福島県知事選 現新５人立候補表明 告示まであと１週間  minpo.jp",
-      "date": "2026-10-01T06:50:00+09:00",
-      "date_display": "2026/10/01 06:50",
-      "sort_key": 1790805000.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "知事コラム 埼玉の米づくりと新品種「えみほころ」の魅力 - pref.saitama.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYi1jT015Y0NhODVqMW1MZTE3VC1naTROT3pCMUxqM1lrX1NSWjVJQzBMTHJmT2tmRmJWUUtaZFRibHZiRE5xTC02eXpPSWdFcWx2S18tYlZxQnJxSlkwbXhFYWJaVndhbmJvb2RhOUFoaFNmQWNXRGFSX0F1YnlRWWE4b2E?oc=5",
-      "summary": "知事コラム 埼玉の米づくりと新品種「えみほころ」の魅力  pref.saitama.lg.jp",
-      "date": "2026-10-01T06:49:41+09:00",
-      "date_display": "2026/10/01 06:49",
-      "sort_key": 1790804981.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -506,33 +605,6 @@
       "sort_key": 1790802000.0
     },
     {
-      "source": "Google ニュース検索:市長選",
-      "title": "新庁舎「立ち止まり再考」 熊本市長選に市議の井坂氏が出馬表明 - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhYkEyVFhEYzZ1STV5Y3RTbjMwN09BcHA0bzdDZDQxLTBWa2I2SjI4dTZIeHd2SlIxYVV5elpMaUZMNVhocjZtOUg5ODFNVmxRZlJITFh3?oc=5",
-      "summary": "新庁舎「立ち止まり再考」 熊本市長選に市議の井坂氏が出馬表明  西日本新聞me",
-      "date": "2026-10-01T06:00:00+09:00",
-      "date_display": "2026/10/01 06:00",
-      "sort_key": 1790802000.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "熊本・荒尾市長が辞職届 11月までに市長選 - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtb3dYWnpneU5kZ0w1dUc5Ymc5R2lwaENfbUJBTUJ5UEs2OThPVUw4Y1FaaG5wdkc3VUNhaUljSGtWdGc4eENlcXBZRDZma1EwbV9Wb0RR?oc=5",
-      "summary": "熊本・荒尾市長が辞職届 11月までに市長選  西日本新聞me",
-      "date": "2026-10-01T06:00:00+09:00",
-      "date_display": "2026/10/01 06:00",
-      "sort_key": 1790802000.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "トランプ政権に広がる不満 - yomitime.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RNHpGWHpPTVJJb0toRTZaU3NBVG9BNU0xeEZmbjZjaFktTDlsNnFKajh5QWJRQlNNRTlDb1hURFRCSkN0Y0RxQ2EwUldLUlAwQTNnLVdBMU4ya2ZBeWc?oc=5",
-      "summary": "トランプ政権に広がる不満  yomitime.com",
-      "date": "2026-10-01T04:45:03+09:00",
-      "date_display": "2026/10/01 04:45",
-      "sort_key": 1790797503.0
-    },
-    {
       "source": "Yahoo!ニュース 国内",
       "title": "世界大学ランキング 東北大に注目",
       "link": "https://news.yahoo.co.jp/pickup/6597092?source=rss",
@@ -540,78 +612,6 @@
       "date": "2026-09-30T23:37:27+09:00",
       "date_display": "2026/09/30 23:37",
       "sort_key": 1790779047.0
-    },
-    {
-      "source": "Yahoo!ニュース 国内",
-      "title": "麻生氏 土地3カ所の資産報告せず",
-      "link": "https://news.yahoo.co.jp/pickup/6597105?source=rss",
-      "summary": "",
-      "date": "2026-09-30T20:14:59+09:00",
-      "date_display": "2026/09/30 20:14",
-      "sort_key": 1790766899.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "ご挨拶 - おぎのあやか（オギノアヤカ） - 選挙ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BWW40eUdtMFlhWWdVZXBLNHNlaC1rMFhGUGtEZnluVnl1VHJSNEM3UmV2SkxtcFlmdnRVLVJTbWo0S2FDWFBTLVFJRE9OMjBSZVJYQUthelh1UG03eWZ3?oc=5",
-      "summary": "ご挨拶 - おぎのあやか（オギノアヤカ）  選挙ドットコム",
-      "date": "2026-09-30T20:05:12+09:00",
-      "date_display": "2026/09/30 20:05",
-      "sort_key": 1790766312.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "地方議員が「国保逃れ」――そのツケは誰が負担するのか？練馬区議会で問いました - 選挙ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81em83NzZCbndnZGthRnhONTFNWHk2Z09DeHhWZEJ5TFVhaUVmejRsdVdleWhFcWJyYkZ6ajlhWW5GdGo2WkZlbF9ub1BPbkdUUGRTOU1Zb2VDVXNuRGc?oc=5",
-      "summary": "地方議員が「国保逃れ」――そのツケは誰が負担するのか？練馬区議会で問いました  選挙ドットコム",
-      "date": "2026-09-30T20:04:19+09:00",
-      "date_display": "2026/09/30 20:04",
-      "sort_key": 1790766259.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "時事テーマから斬る自治体経営 「自治体の未来」の注意点 - projectdesign.jp",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CZFNBaEI4dUdtQnQ3Wjg2MzRpV2NiV2hjaVJOemlqeEgzWW56dGxwUDBmMm5FN1VBanFvQ2NCcEtOZFpfT3ZxdnZWWkNJc0VLTzhLUDI4bG9EQTE2MXJTT3VYNFVwOE9jQ0pOQk93bE9uUnFXUEpicGw0TVZtenc?oc=5",
-      "summary": "時事テーマから斬る自治体経営 「自治体の未来」の注意点  projectdesign.jp",
-      "date": "2026-09-30T20:03:32+09:00",
-      "date_display": "2026/09/30 20:03",
-      "sort_key": 1790766212.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "有権者は、公共投資における障害の撤廃と金市場の安定化を求めて請願を行った。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnprODdLcXRVS1d0NmJvckJzTFhaZ0hXeGtCR2huQ2ZiaEYta0FFUjF0X0Z2VmhuNUdsQUl0dzYwNDNTSWNPVG85S3dRV1VSTlVLQ1JnVHBmcFU5VDRIeW93WHc5MEJXYVV0UFlqUGNiWUZhMzNwMXpDbERqLUNyODRlUlVXLUo4S0E5UXJoQTV0OVRIWHBrQzR3Ni1taThDdmFrTFRvRlY?oc=5",
-      "summary": "有権者は、公共投資における障害の撤廃と金市場の安定化を求めて請願を行った。  Vietnam.vn",
-      "date": "2026-09-30T19:24:18+09:00",
-      "date_display": "2026/09/30 19:24",
-      "sort_key": 1790763858.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "令和8年第３回福生市議会定例会議が閉会 - 公明党",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZW1BZ0I0NmZPVW5LMnVpZHNPM0lLWUdiZUFGUUg0NThlY2pYczhhWndTaDlnZVI5UXZjdnNYYjc2NFRIcmhXLXV2VXBGRmZXUHJVMjV0WDJFMkVNaG96d1hTVU14OEJvcWV0MFlWTU1KQWQ2S3hFSTZ3YTE4LThwcXJiVF9lQk1ONmZzM2NXRmh6VEVURkg0MWh4QXJxZ0IzWDU1R2g0czlLU05md1VPeHBJM0I4UEpTdDRIOWZmUHhrQk82RlVkV3d6ajFnX3JhVWJQbFdsVEFvODcwMTVySkhLMVgteERLRUJPSVVVRDI2OHBac3BSdlA1Rm02QUNsN2ZjVzFSSzUtT1JrRVQ3Y3JqSmllaDhCdmdUTFpNcDVwakpJUXIyQk9JblRLbjJrMVNnQWRaZW8?oc=5",
-      "summary": "令和8年第３回福生市議会定例会議が閉会  公明党",
-      "date": "2026-09-30T19:19:43+09:00",
-      "date_display": "2026/09/30 19:19",
-      "sort_key": 1790763583.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "【常任幹事会】第164回 水岡代表「来年度に向けて大きな一歩を踏み出したい」 - 立憲民主党",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tUTFYby1US0p0RWhBenN2MHROYmg0QzJOXy1HOWU4Wm5kdUtTLUZ6amF4MVVvZm0yOGZPdm41QXVfZEZEWmdWdUJ3NEdjZnJx?oc=5",
-      "summary": "【常任幹事会】第164回 水岡代表「来年度に向けて大きな一歩を踏み出したい」  立憲民主党",
-      "date": "2026-09-30T19:00:00+09:00",
-      "date_display": "2026/09/30 19:00",
-      "sort_key": 1790762400.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "第23回福島県知事選挙を執行します - town.minamiaizu.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzNvdHhXeVBadkdwdDNSc0JqMjdnM2hUYmVQRG5WYjBvdUt5a29uZnhuSXROd0J6QUhBNEdZaFNFWVBGMkhaNFItbUpYVmFZU1FtNlJJU0dkaWhzYWlRS05ibHF1dEE1NHJqTkhPQ1lDLVdGVHcxXzQ3SWxuaXZQa1FPbUR1R1FxOXhPdA?oc=5",
-      "summary": "第23回福島県知事選挙を執行します  town.minamiaizu.lg.jp",
-      "date": "2026-09-30T11:43:14+09:00",
-      "date_display": "2026/09/30 11:43",
-      "sort_key": 1790736194.0
     },
     {
       "source": "NHKニュース 政治",
