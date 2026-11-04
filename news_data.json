@@ -1,6 +1,474 @@
 {
-  "generated_at": "2026年11月04日 10:00",
+  "generated_at": "2026年11月04日 19:20",
   "items": [
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "11月4日の知事往来（広島・山口・岡山・島根・鳥取） - 中国新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ybnZkdzZ0U2I3VHhwNEdqVXI0YWRlRDZBOXlvQ3lpa256V0cyLWRQS1BsSEZHQi00NThPcERfd3c2TDhzOGlGdmhNVnJiWlFMUnJlMTdPUGZTdw?oc=5",
+      "summary": "11月4日の知事往来（広島・山口・岡山・島根・鳥取）  中国新聞デジタル",
+      "date": "2026-11-04T19:05:33+09:00",
+      "date_display": "2026/11/04 19:05",
+      "sort_key": 1793786733.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "徳島知事選、三好市長が出馬断念 - 下野新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdEIwNUNOX01LblkyNi1FcFNTLVNPQS1TU19lUXlSdnhKMEZBcHBzQ2pJZEVkOGJiNEtRbEdkN1FsSHRjYmZpM1JRVmN3Z3hBYTkwMU1LeFoxc1E?oc=5",
+      "summary": "徳島知事選、三好市長が出馬断念  下野新聞社",
+      "date": "2026-11-04T19:05:01+09:00",
+      "date_display": "2026/11/04 19:05",
+      "sort_key": 1793786701.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "徳島知事選、三好市長が出馬断念 元民主の高井美穂氏（共同通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRXFpeVVBSDE1THRXQXIxNFkwOEJEcmYwcXd3NzI5X0Q0MDhMc1RqQU1vUTZDMnoyaXpONVJ6X0NKMzJ6eEs5SVFfU1JmcndXbzJZMjd6R2txUWtteEZ6RGN4NUR6RzBBOWl4dG5wdkJxdmZNUGNyZ1ZCZHQtczA?oc=5",
+      "summary": "徳島知事選、三好市長が出馬断念 元民主の高井美穂氏（共同通信）  Yahoo!ニュース",
+      "date": "2026-11-04T18:58:49+09:00",
+      "date_display": "2026/11/04 18:58",
+      "sort_key": 1793786329.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "「災害に強い国づくりに全力を」 北海道東北地方知事会が決議 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USGJ0YVlzYmVndGU1c3hZdk1vc1pDTnhldzJEVjE5Z1AzUTVKVXgxU0VVTE1QWDk2d0dxN0JMNlJ1U2V3RVU2MXBsNHB0MUpBdnpEQTRkeUk1Z3VpcTJoalMtRVVQMnpwMXNMVg?oc=5",
+      "summary": "「災害に強い国づくりに全力を」 北海道東北地方知事会が決議  日本経済新聞",
+      "date": "2026-11-04T18:45:00+09:00",
+      "date_display": "2026/11/04 18:45",
+      "sort_key": 1793785500.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "災害に強い国づくりなど協議 北海道東北知事会「復興支援の継続強化を」【山形】（IAT岩手朝日テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVnZUUGNLNWhCWlFkM3VLRU1KZmhsclV2RVBucVBfVS04SnppSnBtMmRmcGR0UkJWU1BzbzMwbVFLQ3pEaHdhWVJtT01UUXdzOVJwNVE0dkhFVDVlczV1OGQ0czd5OS1lZ2tneVFGN0NKc3gwQ2VJYkRkY2JLRkk?oc=5",
+      "summary": "災害に強い国づくりなど協議 北海道東北知事会「復興支援の継続強化を」【山形】（IAT岩手朝日テレビ）  Yahoo!ニュース",
+      "date": "2026-11-04T18:33:53+09:00",
+      "date_display": "2026/11/04 18:33",
+      "sort_key": 1793784833.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "州知事選、民主党候補が相次ぎ当選 トランプ氏の支持率低下が影響か 住民投票も - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3VqRG4wQWFSeEsyeE9VOERjYnZualBUR1ZONHZjTmlyTGZkOTBHai1yVG0zYVRNZTZRWkdDZUtaTEZvYk9TYnk0TXEzaDdhZkV5UjdBV0dVVm5MOS1IdDJLSzBnc2s1V3h3SFNWd2ZTX0dKWUtSUmdvalNCYXVzMVF0THBoRldhbnR4QQ?oc=5",
+      "summary": "州知事選、民主党候補が相次ぎ当選 トランプ氏の支持率低下が影響か 住民投票も  産経ニュース",
+      "date": "2026-11-04T18:09:47+09:00",
+      "date_display": "2026/11/04 18:09",
+      "sort_key": 1793783387.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "知事選も民主躍進 共和牙城テキサスで現職敗北―米中間選挙 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8za18wdlBuWUxSa2VaczJ1TzNadXprTnFyUXJGMFdydGNPeXhZVWtyb2hrMlRtckJkQVl2b05LQ1NqcWNGd0duV0dnYUVhSFZ4ZHN3VlZQSGVCNDN0b3VNam5Paw?oc=5",
+      "summary": "知事選も民主躍進 共和牙城テキサスで現職敗北―米中間選挙  時事ドットコム",
+      "date": "2026-11-04T18:04:00+09:00",
+      "date_display": "2026/11/04 18:04",
+      "sort_key": 1793783040.0
+    },
+    {
+      "source": "Yahoo!ニュース 国内",
+      "title": "特定健診の支援見直し提言 財務省",
+      "link": "https://news.yahoo.co.jp/pickup/6601322?source=rss",
+      "summary": "",
+      "date": "2026-11-04T18:02:43+09:00",
+      "date_display": "2026/11/04 18:02",
+      "sort_key": 1793782963.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "「再選挙」なら石丸伸二氏の出馬を警戒する声も 13人乱立の福岡市長選は早くも「2回目」をにらんだ戦い（AERA DIGITAL） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FX0h2RTBXUHE1ZGtEaEY1UE1LdDFqOHkySmV1b3EwVHZ6OXdvYllhd2tkWHIwd3Blci0xR0RweTFUT0dTaHFlWkxNM0lzbTZnZWM2Ym9Gd3NnaW1qNlNoWXJIZUoyRnpIZ3VTa0NGdjBJcG5DRlZpM1F2UUhxaDA?oc=5",
+      "summary": "「再選挙」なら石丸伸二氏の出馬を警戒する声も 13人乱立の福岡市長選は早くも「2回目」をにらんだ戦い（AERA DIGITAL）  Yahoo!ニュース",
+      "date": "2026-11-04T18:00:39+09:00",
+      "date_display": "2026/11/04 18:00",
+      "sort_key": 1793782839.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "福岡市長選に13人が出馬で帯びる“再選挙”の現実味…1度の選挙に8億円超、繰り返されたらいくらかかる? 選管に聞いた - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Qklua2N1MktkS0RxejRzQl95YlFDVWtNUUZUSnB2QTFvd1h5OUhfY1BLcHdOTkhfWXF1RVJJM0doTE8zX1R2ZXdfcy1BX2pucnhJaTRNOFNRN0lTdU1zQVpYMGYwemtFdzlxOTBxX0hzYWxzRWxzZXJwN2tzc1k?oc=5",
+      "summary": "福岡市長選に13人が出馬で帯びる“再選挙”の現実味…1度の選挙に8億円超、繰り返されたらいくらかかる? 選管に聞いた  Yahoo!ニュース",
+      "date": "2026-11-04T18:00:02+09:00",
+      "date_display": "2026/11/04 18:00",
+      "sort_key": 1793782802.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "過去5回の投票率を振り返る 過去最多13人が立候補【福岡市長選2026】（2026年11月4日掲載）｜FBS NEWS NNN - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTByRUVrcmtrdWdWZGJ0aVpNbk5XenJTd0Vxbk5XbjdoYWNpb1dmYnk1MzRhNFY3eWI2T2tGX2RkLUd5NFBHRHFlMlZkUEhaQnJRWnNONHlHbWREZFFuLURDUHJDcjRsVFBESTFvRy13RWo1N0xrMW8yc0ZBemlwSkFGVE1Scy02?oc=5",
+      "summary": "過去5回の投票率を振り返る 過去最多13人が立候補【福岡市長選2026】（2026年11月4日掲載）｜FBS NEWS NNN  日テレNEWS NNN",
+      "date": "2026-11-04T17:48:00+09:00",
+      "date_display": "2026/11/04 17:48",
+      "sort_key": 1793782080.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "2027年春の県知事選 高井美穂三好市長が立候補を断念【徳島】（2026年11月4日掲載）｜JRT NEWS NNN - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1h2YTJyZ1JIVVlHRjJpLXd6anR0cXNOTkF3UVh4UUxIejcxQzYwR1NLQV9Rd3lVZnNjQnBHWEIxSDJYWVpOYnp2U29lc2FZVXBRSUhZTnBWWDd6NjlrbVp6U3h1ai1ZdEJ4ZTdfSk9NTm5OakxDcnE4dGNzSE5vZjdLNVFmRGs?oc=5",
+      "summary": "2027年春の県知事選 高井美穂三好市長が立候補を断念【徳島】（2026年11月4日掲載）｜JRT NEWS NNN  日テレNEWS NNN",
+      "date": "2026-11-04T17:46:00+09:00",
+      "date_display": "2026/11/04 17:46",
+      "sort_key": 1793781960.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "GMO傘下企業の不正アクセス「企業責任果たして」 埼玉・大野知事 [埼玉県] [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSkFZMUNUSEh3SHJTOXN3U0REZlBnM3pvNkloT1hKV1I5Y1B1ZEE0VF9wMVZnTTV4b3VUNVJobTRBbjZFc3lTQVk5cTZoRTdLRklWaHk0SHFwUTRTODNhbU1VMXZQRG8?oc=5",
+      "summary": "GMO傘下企業の不正アクセス「企業責任果たして」 埼玉・大野知事 [埼玉県] [情報漏洩・個人情報流出の最新ニュース]  朝日新聞",
+      "date": "2026-11-04T17:45:00+09:00",
+      "date_display": "2026/11/04 17:45",
+      "sort_key": 1793781900.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米中間選挙、知事選も「赤い州」で民主勝利 次期大統領選に影響 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aTDRsZEljeEhGSUc4aDdFQ0UwTDNCRm14b0NyUldTT2lNV0ctc0F0dUt0SjJFb2kwZFRkZE5xSGQ3ZkxlX2pOYkEyNVNlVVVpYWRLUXlWWlRVbWJOWnlEaHJ3YXF5XzRIcFFKcw?oc=5",
+      "summary": "米中間選挙、知事選も「赤い州」で民主勝利 次期大統領選に影響  日本経済新聞",
+      "date": "2026-11-04T17:40:02+09:00",
+      "date_display": "2026/11/04 17:40",
+      "sort_key": 1793781602.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米知事選 半数の州で民主党が勝利 初の黒人女性知事誕生へ - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ekpzZGhNemhsbW5xdi1qdHJGSkRwMlNoaGhtdjRKbGNFOGItaXZidDBDOWotR0kyUDBEV1hFSzh3SFhuRE43czNseWxXcTVFZkN5ZWh0UVFiRXRDbVNSWGoyVjBoY3hD?oc=5",
+      "summary": "米知事選 半数の州で民主党が勝利 初の黒人女性知事誕生へ  毎日新聞",
+      "date": "2026-11-04T17:33:15+09:00",
+      "date_display": "2026/11/04 17:33",
+      "sort_key": 1793781195.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "争点はバラバラ？ 愛媛県知事選の第一声の\"本音の配分\"と、投票率の行方【音声番組「みみより愛媛」】 - 愛媛新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyR3lsNk1OeXJlT2pIYmNoZjhGUTVMX3pITllnT3NKODdxeXhkV25NdDJGYlRXRGxuRTEtVU91cXJ1Q1l0V0p2VGZsWnU4YVU4YnJEcU16S1UyQVl0VU1vSw?oc=5",
+      "summary": "争点はバラバラ？ 愛媛県知事選の第一声の\"本音の配分\"と、投票率の行方【音声番組「みみより愛媛」】  愛媛新聞",
+      "date": "2026-11-04T17:20:00+09:00",
+      "date_display": "2026/11/04 17:20",
+      "sort_key": 1793780400.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米中間選挙 民主党が州知事選でも躍進 共和党から4州奪還 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Nk1HUzZYQ0NYTng4cFEyUTcwTXk0NTRmWU1NV1g4RmRqQ3FPTWtlQkFZNkRUNlo3RkpuVjh1MEd5UmwwVC1NLWVfMW1GbDdIdlFuM2I3Zw?oc=5",
+      "summary": "米中間選挙 民主党が州知事選でも躍進 共和党から4州奪還  TBS NEWS DIG",
+      "date": "2026-11-04T17:01:22+09:00",
+      "date_display": "2026/11/04 17:01",
+      "sort_key": 1793779282.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米中間選挙 民主党が州知事選でも躍進 共和党から4州奪還（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NdnYxSmhSS19WZTZRaUlDNkhCWHFoNEpscTlXX3VQSm54WWw2RTdsSU9CQ2J5Yk1oeGg0RUp5WUFDdG82bHFfZFlwcWpZMTQxVlF1RmVuT0t5YVR6TFFrbm1ZcFg3aF9sZEF0TVpvUVh5QnZyU2liTkZSQ2ZVQjg?oc=5",
+      "summary": "米中間選挙 民主党が州知事選でも躍進 共和党から4州奪還（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "date": "2026-11-04T16:59:45+09:00",
+      "date_display": "2026/11/04 16:59",
+      "sort_key": 1793779185.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "黒人女性が州知事に当選確実 米 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wYjNmVndINmMxVzlHRTV6UnFHRll2cE5DTHc2TllqdFVOUHk0NEU3M3BVQ2lLRU5TN0t2S0g0c0FNS2FaT2t1VF9Md09zdHhU?oc=5",
+      "summary": "黒人女性が州知事に当選確実 米  Yahoo!ニュース",
+      "date": "2026-11-04T16:53:10+09:00",
+      "date_display": "2026/11/04 16:53",
+      "sort_key": 1793778790.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JMWhWYnVDRkhzN1hSa1RRUk5wcm9EaXNVM013VXdZbnlCQUdDQWxGZUIxRDhxNjkyampaaE9nc2hqRmtzcGlheGdZTXZPVmEyNV9BZzRmSHFZUHk4VEtB?oc=5",
+      "summary": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ  NHKニュース",
+      "date": "2026-11-04T16:38:00+09:00",
+      "date_display": "2026/11/04 16:38",
+      "sort_key": 1793777880.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "【写真】事務総長兼大統領のトー・ラム氏がラオス国民議会議長のソネサイ・シパンドン氏と会談 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3h5UV9IWUxqMUtBWWhvR0lnR3NVOVI2UU1YR3l5Rzdlc1JWSXhITktrdTFSLUNSSDNWU2NMYVdTUjV3RFVvUmhCSTctSHh4ZFRnSVMza2dRZlBycDlHdS1uT2tUU2dUZjFIakNlalJ3YWQ2YzhRbmpPbDhvbk5CN1ptMklLODdabmhrd2ZlMnQ4THlrWUVCRnljWnZXUXpoYmY1SzlwVTI1cmVp?oc=5",
+      "summary": "【写真】事務総長兼大統領のトー・ラム氏がラオス国民議会議長のソネサイ・シパンドン氏と会談  Vietnam.vn",
+      "date": "2026-11-04T16:36:44+09:00",
+      "date_display": "2026/11/04 16:36",
+      "sort_key": 1793777804.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "黒人女性が州知事に当確 米中間選 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUZU14YmZ2enZOS0x5MS1rSnIzZk9ub2h6NHdPanpmZE4wbWFDR2p2N3NCRmhCMnVYaVZWQ3JZLWZaMUI2UmpvS1NCb1p5dkZU?oc=5",
+      "summary": "黒人女性が州知事に当確 米中間選  Yahoo!ニュース",
+      "date": "2026-11-04T16:10:48+09:00",
+      "date_display": "2026/11/04 16:10",
+      "sort_key": 1793776248.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "データセキュリティ確保における地方自治体の責任を明確にする。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXJGZ21wZzJ6b002TzdNU2U4MjM4SU1yM1FQNGEzX205RGdmdGdwdDNQQUZweHdTSUg0UGtDd0NyT1dEeEI3cVVvZ3dVZ2dwcHJlWXZBMjRDX2V2TGxJSnVHbnBmOVkxa0xkbWZTSW1yNUd1MUIta094T0xlSF9YaUo4b2tVY21Qb1pxRVhhejNhQjBuV3c?oc=5",
+      "summary": "データセキュリティ確保における地方自治体の責任を明確にする。  Vietnam.vn",
+      "date": "2026-11-04T16:08:08+09:00",
+      "date_display": "2026/11/04 16:08",
+      "sort_key": 1793776088.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米国史上初の黒人女性知事が誕生…共和党が地盤のテキサスでも36年ぶりに民主党知事（中央日報日本語版） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUDRwSEp4SGJYY2I3aDVtcU1RVG1Ma0NvekkzX3Z5aDJDOC1qMDdBNkZmNndLSjJ2RnYxZGhHZ0NGZTJEbWdVaHpBaGFtZUFTTHdnQlJuRi1FMXN3LVBCLU5rTkxEdDNqWTliZG1IS1Z6WmhaQ2R4QmFnTEJVLTg?oc=5",
+      "summary": "米国史上初の黒人女性知事が誕生…共和党が地盤のテキサスでも36年ぶりに民主党知事（中央日報日本語版）  Yahoo!ニュース",
+      "date": "2026-11-04T15:59:24+09:00",
+      "date_display": "2026/11/04 15:59",
+      "sort_key": 1793775564.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "広島県知事が韓国キョンサン北道訪問 さらなる交流促進で一致 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBya3pSNFZfZG9ycy1NM3ktZ3FnbU02b2U4YmRiMF9KZjFDQ0ZBX3dNR29ncHQ4NE1DRndMUVRKQll6YmpIMDFVX1k5VEd3YlQ3OHI4VlZPU1hzZmlYdU5r?oc=5",
+      "summary": "広島県知事が韓国キョンサン北道訪問 さらなる交流促進で一致  NHKニュース",
+      "date": "2026-11-04T15:56:00+09:00",
+      "date_display": "2026/11/04 15:56",
+      "sort_key": 1793775360.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "大田市議会が全国地方議会で初めて会議録作成のための人工知能(AI)音声認識技術を導入する。 大田市議会は5日に開かれる第300回第2次定例会からAI音声認識技術をテスト運営すると明らかにした。 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55a3NoWUwybG53X2hBaG5ISmNoSWZkeU85UWpjY1R2cjZjemJscU90WGlLSjU2LVpGdnZuZElFdlJDZDA5RTlqVFpnMGRxNzFtN2c?oc=5",
+      "summary": "大田市議会が全国地方議会で初めて会議録作成のための人工知能(AI)音声認識技術を導入する。 大田市議会は5日に開かれる第300回第2次定例会からAI音声認識技術をテスト運営すると明らかにした。  매일경제",
+      "date": "2026-11-04T15:02:02+09:00",
+      "date_display": "2026/11/04 15:02",
+      "sort_key": 1793772122.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "近現代史の再評価と現代日本・地方からの憲法改正への展望 - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrQ3VYNzFGUDAwN2wyZFZGMUtkSkhoTk5iSHRhUTFrS1U5T2tKQUY4UVJ0c2ZYS3VOUTk5UVBrV3RpcWlUa19yelYyWEI2My1Hc01fbTdRcXB4LTZTVmc?oc=5",
+      "summary": "近現代史の再評価と現代日本・地方からの憲法改正への展望  選挙ドットコム",
+      "date": "2026-11-04T14:53:50+09:00",
+      "date_display": "2026/11/04 14:53",
+      "sort_key": 1793771630.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "【速報】高井美穂三好市長が知事選への立候補を断念する意向 周囲に伝える【徳島】（JRT四国放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51anRTak01ajFSUU9CSFlIckVUZWlORmZJcVhCVnMzWU84dXZibWZndUFlT25oX1gwN1MtZExMWl90Q2VsSjRtaW1kZFA4S3BOZjFFbm1TN01FeXYycjlmeGtHcUhXRUNTNkd5Uk5fMnFKYzBabWZPb1NIdDl4ZG8?oc=5",
+      "summary": "【速報】高井美穂三好市長が知事選への立候補を断念する意向 周囲に伝える【徳島】（JRT四国放送）  Yahoo!ニュース",
+      "date": "2026-11-04T14:20:00+09:00",
+      "date_display": "2026/11/04 14:20",
+      "sort_key": 1793769600.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "オハイオ州知事選、民主アクトン氏がラマスワミ氏に勝利 | The Wall Street Journal発 - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fclc5VzdScVZFT2RQQTZkTUk0OHNMR3ZsREI4ZDgzUjVqUnZ0dmRwbXRUakxwQjY0REdsRGJHWnFSUk5FWUpic2l4eHI?oc=5",
+      "summary": "オハイオ州知事選、民主アクトン氏がラマスワミ氏に勝利 | The Wall Street Journal発  ダイヤモンド・オンライン",
+      "date": "2026-11-04T13:56:00+09:00",
+      "date_display": "2026/11/04 13:56",
+      "sort_key": 1793768160.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "WSJ日本版：オハイオ州知事選、民主アクトン氏がラマスワミ氏に勝利 - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03Ri1TQTVKVjZLQU1pZXlINWNBcXFHc2NLcXQ2OTY2SllUVWRSY1hXa3lveFJvYlppS2dJalVOS0hYN1V2VnVmWGd5T3VWYjJISUpmV3MxeUVKWTFtenA1bVB1T0gybTdB?oc=5",
+      "summary": "WSJ日本版：オハイオ州知事選、民主アクトン氏がラマスワミ氏に勝利  毎日新聞",
+      "date": "2026-11-04T13:56:00+09:00",
+      "date_display": "2026/11/04 13:56",
+      "sort_key": 1793768160.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "WSJ日本版：テキサス知事選、共和現職アボット氏敗北 民主30年ぶり勝利 - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CbTNlX2ZNMmJiV3ZSZXhpeTY4UmZCOHJIZUs1U2wzNkRHNFVJUmxtVzM1QjVfMERaTGZfSWl5cHVpLTl2cXFvNDFPRm1yVmpzNFZoWkt6aS0yUkRveGIwX1lIdGdVS3Z4?oc=5",
+      "summary": "WSJ日本版：テキサス知事選、共和現職アボット氏敗北 民主30年ぶり勝利  毎日新聞",
+      "date": "2026-11-04T13:53:00+09:00",
+      "date_display": "2026/11/04 13:53",
+      "sort_key": 1793767980.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "テキサス知事選、共和現職アボット氏敗北 民主30年ぶり勝利 | The Wall Street Journal発 - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EcnAxdldUendNOEI1Z2ZWRExuclJOYUVrcUt1WEFxOGtwb25JeTJmTkdIWXFqa1dXUTNxT1M3dWQyT3F6QTlseGhxSjM?oc=5",
+      "summary": "テキサス知事選、共和現職アボット氏敗北 民主30年ぶり勝利 | The Wall Street Journal発  ダイヤモンド・オンライン",
+      "date": "2026-11-04T13:53:00+09:00",
+      "date_display": "2026/11/04 13:53",
+      "sort_key": 1793767980.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "国民議会代表団：草の根レベルにおける市民の苦情・告発の受付と解決状況の監視を強化する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhTT2NwNVh3ZXMzTU0zWGhyUnlZMFpkTTNpOGtVYVlqU2QyZ2RXTTA4MExaQjdPczMxeTdPSXRDUlpPd3BpOUVfZWZCbFY2VlFhMHo0NGRvUlhUT0ZTN0h4TlpjbVBRQVFVQ3F5WEdhMHdHSk5IVVdyYnU0Vm03NzZsNV9ReEdWSy00YjNuQm9RSmVvVXAxcjFjYkwxSTllMkJpdzdCUVNrTFBSZnhabFRWNjVqbVEzaU9V?oc=5",
+      "summary": "国民議会代表団：草の根レベルにおける市民の苦情・告発の受付と解決状況の監視を強化する。  Vietnam.vn",
+      "date": "2026-11-04T13:51:18+09:00",
+      "date_display": "2026/11/04 13:51",
+      "sort_key": 1793767878.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "【速報】米テキサス州知事選で民主党36年ぶり勝利 - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OV2dBTHJYb0lVZEdQSGxQSHRwdW94OTRKOGZTT3pIZWdKVDd4MHhlOFBJR2dYVkp5SHRDODJkRGVFSWdfWWpreDA5cw?oc=5",
+      "summary": "【速報】米テキサス州知事選で民主党36年ぶり勝利  47NEWS",
+      "date": "2026-11-04T13:50:10+09:00",
+      "date_display": "2026/11/04 13:50",
+      "sort_key": 1793767810.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "ジョージア州知事選、民主ボトムズ氏が勝利 初の黒人女性知事に | The Wall Street Journal発 - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yZk03NjVfRENNN1puRjhCcVJManZpYTZOZXNMWjNZcnlzeGNjazhVdFN6ZGFHOWQ1ZldOUzJQZGtFMGU3eU80eUpRRXo?oc=5",
+      "summary": "ジョージア州知事選、民主ボトムズ氏が勝利 初の黒人女性知事に | The Wall Street Journal発  ダイヤモンド・オンライン",
+      "date": "2026-11-04T13:09:00+09:00",
+      "date_display": "2026/11/04 13:09",
+      "sort_key": 1793765340.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "WSJ日本版：ジョージア州知事選、民主ボトムズ氏が勝利 初の黒人女性知事に - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NN3BtZzVlQ0lnTUNUSHlRVGxYUHl5VmxvSUtkZmVnemZ0NmoyRDUzcE1INDVveURpRnpKRVk5c2VqTGJQWVplbjFVSTJOcEtTbmNrR3dwWnRLcUtFbVFwT2NoNUlWZGpL?oc=5",
+      "summary": "WSJ日本版：ジョージア州知事選、民主ボトムズ氏が勝利 初の黒人女性知事に  毎日新聞",
+      "date": "2026-11-04T13:09:00+09:00",
+      "date_display": "2026/11/04 13:09",
+      "sort_key": 1793765340.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "本日（11月4日）、国会は公安部が主導する3つの法案について審議を行っている。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2J6UjlPMjBnVjNjSXBJQy1BcTRVOTZya0YyR2pMLXhCLWdfUkx0VFNRR3dQN1FfYXpSVmQxcTZ6dnZxcnl2N2RtNHc2Q3hLcnI3alI2OUdIbnMxRTU4THA2dmVpajh5QzBRSGpQTW0zdGYtUHE2M0xlWVhIYXlXMUFmaWdiNHZFaWdpWEVFdF94dzVVN2U3YTJFYXNvbHVUM0cxaGZRZmQ?oc=5",
+      "summary": "本日（11月4日）、国会は公安部が主導する3つの法案について審議を行っている。  Vietnam.vn",
+      "date": "2026-11-04T12:39:25+09:00",
+      "date_display": "2026/11/04 12:39",
+      "sort_key": 1793763565.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米州知事選、テキサスやオハイオで民主勝利 ジョージアは初の黒人女性知事（ロイター） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Udm85RnNqek14bFNkM19MUHJQSWpZZ1lJMkVBN3g1X2Zod0lVd1R5bEV2NkpXLWlJUVZiaHlBX09wZ0JIRXUyYWdXSUhtU3lzNmZNb0xWUGdmX2wtNTZLUWVFbjBTWUVFWl9Qdmk3anJyLS1NSGVJaG1qTE1ndDQ?oc=5",
+      "summary": "米州知事選、テキサスやオハイオで民主勝利 ジョージアは初の黒人女性知事（ロイター）  Yahoo!ニュース",
+      "date": "2026-11-04T12:31:51+09:00",
+      "date_display": "2026/11/04 12:31",
+      "sort_key": 1793763111.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "ジョージア州知事選、民主党ボトムズ氏の当選確実 米国史上初の黒人女性知事に - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YdjZ5cVVZa3daS3Q5dVgxbmJ1ZFdaOW9GVGxEVnpFYm0zb2QxR2RBTnhVbTVLMTJWM0NMbUZzOVNuWmdXU3BYd3l6bmx4eHFz?oc=5",
+      "summary": "ジョージア州知事選、民主党ボトムズ氏の当選確実 米国史上初の黒人女性知事に  CNN",
+      "date": "2026-11-04T12:28:00+09:00",
+      "date_display": "2026/11/04 12:28",
+      "sort_key": 1793762880.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "たんの吸引など必要な医療的ケア児と家族の笑顔守る - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZHpBN3hmUWoxR3ZjTEFTWFBSajNQcVFtTnZqcTF4OXhya0tReWVTM3R2dXFJbGl6V1dFTkw2Qi0xazgxZDlrVk5EdG9qQW5WMFRRQ1dzTnFrS1BoZmtN?oc=5",
+      "summary": "たんの吸引など必要な医療的ケア児と家族の笑顔守る  選挙ドットコム",
+      "date": "2026-11-04T12:23:46+09:00",
+      "date_display": "2026/11/04 12:23",
+      "sort_key": 1793762626.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "2026年米国中間選挙：民主党が序盤で優位に立つ - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNllBeGVtakpvcFJYQ2FVdVd2THRMVjZ0QlFaTTJOZ2JoQ2FLNUtjNXNJOGw0MlhlN25XZ0I1NklKWTFMcHpCMmhXXzlZSWRhX1RhX2VIZmhJNnlKSmkyZGxBaFVWUl91bHFwSnhETTZPN1lfbmlXaHRYQmxPX0JuVFQybw?oc=5",
+      "summary": "2026年米国中間選挙：民主党が序盤で優位に立つ  Vietnam.vn",
+      "date": "2026-11-04T12:22:40+09:00",
+      "date_display": "2026/11/04 12:22",
+      "sort_key": 1793762560.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "滝沢市長選に見る地域の課題 地域医療体制の整備が急務 将来に必要な医療とは - 岩手日報",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GZ1pWcE1oVzVyYlYtZ1QyMUk1ZnBINUJBS3puTWtZZWE5cnlPVW4wOXJVcVZoZkpzSFpYNDVUSmJ6bS0xX2FZTVQ4aFE5NVdNWEl2dFVRNlgwVG1yRkc4Tw?oc=5",
+      "summary": "滝沢市長選に見る地域の課題 地域医療体制の整備が急務 将来に必要な医療とは  岩手日報",
+      "date": "2026-11-04T12:20:00+09:00",
+      "date_display": "2026/11/04 12:20",
+      "sort_key": 1793762400.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "ワシントンで首都の乱？ 市長選に急進左派が当選確実 トランプ氏は「共産主義者」と批判 - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcHVqejRRcXJ6akJONHRkbHNGZDRPT3JrZVFTaVgyMW5rWDIxcjhDbG43a09ZRmpsZXlYeWtQOGJ0QW5OejkzaDRTdVo3RWNTM0tlM1NVMlp5cUNjcTZ5VDZkX0VvbHFmOTg1c0x6aVBGaXhSakNFOW5Rb1Q2YnlDNXROS2V2WjJyLUJSSw?oc=5",
+      "summary": "ワシントンで首都の乱？ 市長選に急進左派が当選確実 トランプ氏は「共産主義者」と批判  産経ニュース",
+      "date": "2026-11-04T12:17:40+09:00",
+      "date_display": "2026/11/04 12:17",
+      "sort_key": 1793762260.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "「投票を」学生が呼びかけ 20代の投票率は前回15.47％ 投開票は11月15日【福岡市長選2026】 - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVBJLWJMYmxvV2hwV0YzdzFneDYxRzB0Vmw3MkN2Rk4zNE1GM29FVHNJWVNzbzZQbUYyb1VseVJ3MVlERUNSd2JHZjFNVmdNQmRjMjI5RHhwdnphZndUTFBkakJiZ3pfWjRNRUdhWjhLTW12VC1oMlBWTG55QWdaRnNNMUlJNjFf?oc=5",
+      "summary": "「投票を」学生が呼びかけ 20代の投票率は前回15.47％ 投開票は11月15日【福岡市長選2026】  日テレNEWS NNN",
+      "date": "2026-11-04T12:07:00+09:00",
+      "date_display": "2026/11/04 12:07",
+      "sort_key": 1793761620.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "ジョージア州知事選で民主候補が勝利 黒人女性初の州知事誕生へ - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41dEpnZC11MHd6czBmZkVtcC1ob3VDb0dMTGVoZVlfdmFGcURpc0dGSW9QcGNpMUlCTlZwTW1MRW9NMk03VXVfZ3BCcUlzWGlWRVhjNmpjT0RfcERaV2Y1X3l0ZWRVc3Iy?oc=5",
+      "summary": "ジョージア州知事選で民主候補が勝利 黒人女性初の州知事誕生へ  毎日新聞",
+      "date": "2026-11-04T12:04:55+09:00",
+      "date_display": "2026/11/04 12:04",
+      "sort_key": 1793761495.0
+    },
+    {
+      "source": "Google ニュース検索:市長選",
+      "title": "米中間選挙、市場は州知事選を注視 AIブームの行方を左右 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJdE0wMk8xNVdYMDhWdTducjZ6aWdqYThkbHhnbS1vc0x0dXJ6TEJfWVI3VEZFZ1hiM0theWpQc2ZPQTA4cUdnVkZkVHhiOTZWd0RCTGJ1ZFlhTW9IRy1YNC13OUdfZjFMcUZUV0J0R3pGVzlWenNN?oc=5",
+      "summary": "米中間選挙、市場は州知事選を注視 AIブームの行方を左右  日本経済新聞",
+      "date": "2026-11-04T12:02:22+09:00",
+      "date_display": "2026/11/04 12:02",
+      "sort_key": 1793761342.0
+    },
+    {
+      "source": "Google ニュース検索:知事",
+      "title": "米国初の黒人女性知事が誕生へ 南部ジョージア州、民主のボトムズ氏 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvN01sQUxLWE4wY1hSYTFzdk03bXQ4ZE1zQi0tWllCLTVPd2ZhbTBkVjEzdUlPc3h4VmREbTNlbTJWQ295TkFXd0ZOZDNaandjZWVVRXQwOUxSVHI2ZU9rUDlGSER4YWdyLXFEQw?oc=5",
+      "summary": "米国初の黒人女性知事が誕生へ 南部ジョージア州、民主のボトムズ氏  日本経済新聞",
+      "date": "2026-11-04T11:41:51+09:00",
+      "date_display": "2026/11/04 11:41",
+      "sort_key": 1793760111.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "ベトナムとチェコ共和国カルロヴィ・ヴァリ地方との間の地域協力関係を促進する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkk2MWRNWlFkeC1qNld3eUVxY3lRZ3dQMmhDNVlTbFJscUhnTjNseURoM095MEJFRUR0R0dXSHJIUlI4YXRVRWhCS1NfR2lqTGt0djQ3V1gxUXlLWUwxV25Vc3M1aVZ1Q3lIdHNRQlFUVXZMZHdyT2Y0eEVzVWJDQ3I4ajBZejI1MUluQXlDX3BsMHE0TXBYVTNvbUlhNnRHY1Bn?oc=5",
+      "summary": "ベトナムとチェコ共和国カルロヴィ・ヴァリ地方との間の地域協力関係を促進する。  Vietnam.vn",
+      "date": "2026-11-04T11:33:17+09:00",
+      "date_display": "2026/11/04 11:33",
+      "sort_key": 1793759597.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "第16回国民議会第2会期コミュニケ第16号 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01eWFzSUxROW1qWS1nQ0lzODV5ZFlISl9zNThzUDJKUzVzXzZPbkt1WFZIZTE5cDBBRmdYRnlVSW1vRXRQaWJWZnNRaWhZU284T1F3Nml1VDI3WTZHYkZOYjhRZm9YMUJ1V2FRSXNWRXhWMzJkdTdreldURXRZNkk?oc=5",
+      "summary": "第16回国民議会第2会期コミュニケ第16号  Vietnam.vn",
+      "date": "2026-11-04T11:31:40+09:00",
+      "date_display": "2026/11/04 11:31",
+      "sort_key": 1793759500.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "ベトナムとチェコ共和国は地域協力関係を推進している。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vbl9pS1o5X205d3VsMlNxS2FQUE13Q1QwZWZ6NUR6VGYySVRrbE5RRngwNk5xU3lGMXlOM01ldkRXczdxbzNUaFVxMHBFWXhBTDFFNkhGZ2lIY183WmsxYldMRjluc2JVblNUak1hZ29sQVBtdTctcA?oc=5",
+      "summary": "ベトナムとチェコ共和国は地域協力関係を推進している。  Vietnam.vn",
+      "date": "2026-11-04T10:52:44+09:00",
+      "date_display": "2026/11/04 10:52",
+      "sort_key": 1793757164.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "トラン・ヴー・キエム同志は、ベトナムとラオスの国会議長による歓迎式典および会談に参加した。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0hrMGRVaTdGeFk0djA2aUR4ZkdlbkpHbmxzc0JoYUZ1RzRyRXp4YklobHB2eEhpMnpVVGplTGV6Z05fVzA1VnliS1c4WjVVNzNZYW92U1VJb1pwd3V0LXZnQWtWdFJ6T0pnbDZ2ZjRmc3p4Z0dQZndtWC16blFxY0JhaHVpTFBVWUw1azV4d3o3dkpFWk1ENDN0SUdhTV9qb2tZekowVE16S2FkUFVmSzM4cVhrcFJFenNDaw?oc=5",
+      "summary": "トラン・ヴー・キエム同志は、ベトナムとラオスの国会議長による歓迎式典および会談に参加した。  Vietnam.vn",
+      "date": "2026-11-04T10:01:13+09:00",
+      "date_display": "2026/11/04 10:01",
+      "sort_key": 1793754073.0
+    },
+    {
+      "source": "Google ニュース検索:地方議会",
+      "title": "Gemini Group、日本の政策をリアルタイムで捉える政策インテリジェンス・プラットフォーム「PolicyHQ」の提供を開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwNlE1UTdxWk1sVmhxcTB4bUpEaGpJamVaX3BiWHFlMVhxbTNSbkVDZ00xanBtT3VtMTdXaWVTbEMtanM2QVlDQ2ZvSlN3WksxeFFEZm1hZGNma3hRbGtscnBDSEtXdlZteFE?oc=5",
+      "summary": "Gemini Group、日本の政策をリアルタイムで捉える政策インテリジェンス・プラットフォーム「PolicyHQ」の提供を開始  PR TIMES",
+      "date": "2026-11-04T10:00:02+09:00",
+      "date_display": "2026/11/04 10:00",
+      "sort_key": 1793754002.0
+    },
     {
       "source": "Google ニュース検索:地方議会",
       "title": "アメリカ中間選挙でトランプ政権に逆風か。インフレと実行力の評価 - 文化放送",
@@ -11,55 +479,19 @@
       "sort_key": 1793752312.0
     },
     {
-      "source": "Google ニュース検索:地方議会",
-      "title": "都道府県、上限なし海外視察16議会 16年度以降 旅費歯止め策不可欠 徳島県も上限に関するルールなし - 徳島新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91MjFKVU1sY042RTVNN0I4ckhwanJEWEhZUHVCSzd6RUN6SzRpOWxyQlNfWmJLbDRwWnU5LXpmM3FtUF9ZRExHYTBaSlM3OTdxU1p1ZXV3?oc=5",
-      "summary": "都道府県、上限なし海外視察16議会 16年度以降 旅費歯止め策不可欠 徳島県も上限に関するルールなし  徳島新聞デジタル",
-      "date": "2026-11-04T09:28:20+09:00",
-      "date_display": "2026/11/04 09:28",
-      "sort_key": 1793752100.0
+      "source": "Google ニュース検索:市長選",
+      "title": "［えひめ知事選2026］候補者アンケート＜３＞防災・減災 - 愛媛新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUUtmMjVBa0N6dHdEMUR1dmlXaU5fUVJfYXVDVDZVYlNURk1MOGpjV25FbkRiakxPRXg0Y29WXzk2eXFTVFBVNWxnMXBnM3ZYTEF4MHVZWUEtc2VKUngwZg?oc=5",
+      "summary": "［えひめ知事選2026］候補者アンケート＜３＞防災・減災  愛媛新聞",
+      "date": "2026-11-04T09:15:59+09:00",
+      "date_display": "2026/11/04 09:15",
+      "sort_key": 1793751359.0
     },
     {
       "source": "Google ニュース検索:市長選",
-      "title": "託される課題 松山市長選を前に＜２＞中央商店街の活性化 問われる行政の関わり - 愛媛新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Eb3VkcmFfNGt6M19mRmp6Q1ZIWFVTcDAtdFF3YjdzOExWUkRCYzdIWGxzTlJjbHpaLWlKc3M4Zkh5UEY4b3RaVjVWMnRKb2FKRGRzOXJDRTU0Vmx0aGYwdg?oc=5",
-      "summary": "託される課題 松山市長選を前に＜２＞中央商店街の活性化 問われる行政の関わり  愛媛新聞",
-      "date": "2026-11-04T09:27:07+09:00",
-      "date_display": "2026/11/04 09:27",
-      "sort_key": 1793752027.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "選択 愛媛の針路 知事選 争点を問う＜３＞防災力強化 共助への後押し不可欠 - 愛媛新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMktXSE5iWFg0OWNWV19GZmZfaU52UkI5ZmVqX1JlQ0ZDWDNiOENMZ0IzaTRVWWcxUWRhMWh6YkpVNDY5NVo1c25JMkpYWklwaTliWEx0aGF2bDR4RWtYTw?oc=5",
-      "summary": "選択 愛媛の針路 知事選 争点を問う＜３＞防災力強化 共助への後押し不可欠  愛媛新聞",
-      "date": "2026-11-04T09:22:30+09:00",
-      "date_display": "2026/11/04 09:22",
-      "sort_key": 1793751750.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "知事選 一口メモ＜６＞郵便などによる不在者投票 - 愛媛新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIajRlLTRjVzlNSnhwVk1RMGZseVJCOFRYWGpqWGxTOEcyWWFocGpJZFZQOUdaSWZnMXFEMm5YcnVwVUxOS3pXSnZLMGNvMWtpWjE2SWs1b0kyZUp2RVpndw?oc=5",
-      "summary": "知事選 一口メモ＜６＞郵便などによる不在者投票  愛媛新聞",
-      "date": "2026-11-04T09:14:34+09:00",
-      "date_display": "2026/11/04 09:14",
-      "sort_key": 1793751274.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
       "title": "自民青森県連「宮下氏動向踏まえ知事選対応」｜行政・政治,青森県｜青森ニュース｜Web東奥 - 東奥日報社",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04YndQeENaWUdla2Y4di1pcnZkOExJbUZJYXZzZmktMzBuNndoSGxuc291aE8wQUdpWXJQTm52LWI5c0lRN2dNM3o5Q1BDYzNMNG94bjFJV0o?oc=5",
       "summary": "自民青森県連「宮下氏動向踏まえ知事選対応」｜行政・政治,青森県｜青森ニュース｜Web東奥  東奥日報社",
-      "date": "2026-11-04T09:00:00+09:00",
-      "date_display": "2026/11/04 09:00",
-      "sort_key": 1793750400.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "自民青森県連「宮下氏動向踏まえ知事選対応」 - 47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wd3NZT0NUYWFpNmZUT084ZWtwc2JoVWNqX09faDZ6ZHhwcTIxcnV4TUkzS2toU0NWOWtWVUsxeWhkMDk3bnJyMFlVVQ?oc=5",
-      "summary": "自民青森県連「宮下氏動向踏まえ知事選対応」  47NEWS",
       "date": "2026-11-04T09:00:00+09:00",
       "date_display": "2026/11/04 09:00",
       "sort_key": 1793750400.0
@@ -74,15 +506,6 @@
       "sort_key": 1793748201.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "武部農相「寄り添う」 福島県初来県、浜通り視察や知事と面会:福島ニュース - 福島民友新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9McHVxUFZXemNkeWp6MjdjdkN3RWx5Ql9tS0RVVWxlclEtLXZYeTFuWUtXTGdqMllhTkVHYW9XNjNsZ25Yd0otS2JlOHZTUnFSWlNmS28yZC1fbmc0UkN2T280Z0NFanVN?oc=5",
-      "summary": "武部農相「寄り添う」 福島県初来県、浜通り視察や知事と面会:福島ニュース  福島民友新聞社",
-      "date": "2026-11-04T08:00:00+09:00",
-      "date_display": "2026/11/04 08:00",
-      "sort_key": 1793746800.0
-    },
-    {
       "source": "Google ニュース検索:地方議会",
       "title": "◎地方議会の海外視察 - 熊本日日新聞社",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HRl9vMHE4ai1rb1JiTVM0Z0tMMWtaU1FfckphZkNuRTFxOGZfRm9RVF9xb20tanRwYWt2N2NpbTlCbWx3TXFtS09SbkJkdmc?oc=5",
@@ -90,105 +513,6 @@
       "date": "2026-11-04T07:33:57+09:00",
       "date_display": "2026/11/04 07:33",
       "sort_key": 1793745237.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "過去最多13人の候補者に聞く アンケート④子育て・教育について【福岡市長選2026】（FBS福岡放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oQlJ5MjdPc2IzUEZKSnlRVjF0U1Y2YzRGRmVwQ1dQV2xxUXVhb2pWUnJ5Tk4wME9NMlRJbExzSk1KU082QU9nekpwemdqVnp5enluOUpxaWdFNHZnMnhKZ3dPRW1WYUc5UjRlUVlTbGJfaHB6V2pDWml0TzRvbkE?oc=5",
-      "summary": "過去最多13人の候補者に聞く アンケート④子育て・教育について【福岡市長選2026】（FBS福岡放送）  Yahoo!ニュース",
-      "date": "2026-11-04T07:12:45+09:00",
-      "date_display": "2026/11/04 07:12",
-      "sort_key": 1793743965.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "過去最多13人の候補者に聞く アンケート④子育て・教育について【福岡市長選2026】 - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQem1IZ0pfek9SMUphMllGanlIQkNrbFVudHpNS1lCSXJwZUNrdGhPVmVOWVJpTWgxMUU5VkRHTTl5MEdXeGZ5TXA2bUQ2YXBvNG90bkVtbU5IYzV4dS13elJXY3NkSzRuUVk5MFltRXlRd3ZiRExyc2JkWUJvTFVOelA5b210ZW5xaXNNWGln?oc=5",
-      "summary": "過去最多13人の候補者に聞く アンケート④子育て・教育について【福岡市長選2026】  日テレNEWS NNN",
-      "date": "2026-11-04T07:10:00+09:00",
-      "date_display": "2026/11/04 07:10",
-      "sort_key": 1793743800.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "市長選を前に 館山市の課題（上）雇用 戻りたいのに戻れない 働く場の選択肢が壁に（千葉県）（房日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGcnNnUGZZRkNjWFhIMGNEc1hLVzEtNEZpNGpDaThuWVo0THpiU1hOaG1NRnliQjR1M25EbzFKY0FZU3otUjAybnFQYXhoTHRWNkFGYWlSRDBta01ubnBMNzRoazRHX2syNldYTGpzbVMzNzItRjdhVGhfLWNrQlk?oc=5",
-      "summary": "市長選を前に 館山市の課題（上）雇用 戻りたいのに戻れない 働く場の選択肢が壁に（千葉県）（房日新聞）  Yahoo!ニュース",
-      "date": "2026-11-04T06:33:46+09:00",
-      "date_display": "2026/11/04 06:33",
-      "sort_key": 1793741626.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "たんの吸引など必要な医療的ケア児と家族の笑顔守る - 公明党",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNVV9DY1dXZWtzNnRwUkxULVdpVkhpOFF3WUFWLVNmS2JpWGxRMmszaUVLYlZnSTlNeE00SkpJUGFrN0h6c0FpWnpiME1fb2gyVld0YThCOWk1aXZWSXpLV1E4U01rdTd5Q2lmcWVaNlpKOVMxdnF0ZHYtUG41dUJoM1lXdmxNVGQ0UGVsU2djTTBMbkpXYWx0dzREMGVyWWJiaU1ZelZDM01MMWp4Ni1HODB5M3BoZEVVVHc5LTlNWHVLU0xaVk4zZGt4Q29BNWJCREw1QU9RYmYxcDZtY1lBT2VWNkdhZElBZUVWd05fQzEtVFRlSnRXRUpqV2dRUDlVTjRGTV9IVXIzSFZtcWkzakNnc1B3U1N0WVBLQ0dvakJuNFBRbmRmalVEaHo4SWFJNzk3NjY4bzdBUk1fajdNa1JMU19Lb2twNUQxVXRObk1FTVMxS1p3cjNYaTREMldBWDVybFpzUklKNERHNnFiclREaFMyekpRR25yTg?oc=5",
-      "summary": "たんの吸引など必要な医療的ケア児と家族の笑顔守る  公明党",
-      "date": "2026-11-04T06:16:57+09:00",
-      "date_display": "2026/11/04 06:16",
-      "sort_key": 1793740617.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "2026福岡市長選（キービジュアル） - 立候補者はこんな人 佐々木彩乃氏（29） 無 新【福岡市長選2026】 - 写真・画像(2/2) - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UQ2xLWHRDSlh0cE5NdkRKcFdWYTVta2RmVHc4eXNFNVNZRXZ5aUplUUVDUTIyNkdLZVNQTlA3SXJ6UHdueW9CTlp1UUNBMHRaSWN6YXhRTQ?oc=5",
-      "summary": "2026福岡市長選（キービジュアル） - 立候補者はこんな人 佐々木彩乃氏（29） 無 新【福岡市長選2026】 - 写真・画像(2/2)  西日本新聞me",
-      "date": "2026-11-04T06:14:16+09:00",
-      "date_display": "2026/11/04 06:14",
-      "sort_key": 1793740456.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "福岡市内の主な渋滞箇所 - 増え続ける車で都心部の渋滞慢性化 頼みの地下鉄も目立つ混雑【2026福岡市長選 成長都市の課題】 - 写真・画像(2/3) - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2dXdXZzVfVHFKcTItbHQya3B1eG5zQWZ0RW9nXzZlbnZEZEJjRnRGTzd3OGRteVVzLWR6OENnNHlwNnhoSmEzbExrMTdjU09KMnd2M1k5Yw?oc=5",
-      "summary": "福岡市内の主な渋滞箇所 - 増え続ける車で都心部の渋滞慢性化 頼みの地下鉄も目立つ混雑【2026福岡市長選 成長都市の課題】 - 写真・画像(2/3)  西日本新聞me",
-      "date": "2026-11-04T06:14:06+09:00",
-      "date_display": "2026/11/04 06:14",
-      "sort_key": 1793740446.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "中部電力・安井社長「経営の変化、社内外に」／静岡知事と面会 – - 電気新聞ウェブサイト",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81V2phTU00RVdlWXJNNllaejcyWW9SeHF3T3BRZE1ucTFBb2E2SzgwbjJhYzRiMVVuUkNxMHdXTzNtYzA5N1RtM1diT1BVanQyZEF0NWk0VQ?oc=5",
-      "summary": "中部電力・安井社長「経営の変化、社内外に」／静岡知事と面会 –  電気新聞ウェブサイト",
-      "date": "2026-11-04T06:01:49+09:00",
-      "date_display": "2026/11/04 06:01",
-      "sort_key": 1793739709.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "４４人６団体に知事表彰授与 県庁 - 静岡新聞DIGITAL",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZX1ZJX3JscF9TSjhXYlZmVmNFajNTQlYzcFlmYXduaWNUSmdlSm0zUHUweEZtLVA0S2gxWXB5TVBpN25abFI0Q01kenhCdw?oc=5",
-      "summary": "４４人６団体に知事表彰授与 県庁  静岡新聞DIGITAL",
-      "date": "2026-11-04T06:00:00+09:00",
-      "date_display": "2026/11/04 06:00",
-      "sort_key": 1793739600.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "立候補者はこんな人 吉富景子氏（37） 無 新【福岡市長選2026】 - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tWnIxX1dRbnl4azFOZGloOVhHWUxZMjZlYjZXZnZuVjItSnpkWDBMWE1MMU1EWG5Mb1ZpN0s5QnVrbTZpaWRLOEI3QmNmLUt1UmhDSV93?oc=5",
-      "summary": "立候補者はこんな人 吉富景子氏（37） 無 新【福岡市長選2026】  西日本新聞me",
-      "date": "2026-11-04T06:00:00+09:00",
-      "date_display": "2026/11/04 06:00",
-      "sort_key": 1793739600.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "立候補者はこんな人 佐々木彩乃氏（29） 無 新【福岡市長選2026】 - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81alJqcnNia204ZThxdGFXOUVuUDlRcThVcTM1bGMxa2thOGRiejFfWndhamZGTms2Qzl3d3VIYjdzUlkzWWxoWW4wTkk2ek5Td09wRXpn?oc=5",
-      "summary": "立候補者はこんな人 佐々木彩乃氏（29） 無 新【福岡市長選2026】  西日本新聞me",
-      "date": "2026-11-04T06:00:00+09:00",
-      "date_display": "2026/11/04 06:00",
-      "sort_key": 1793739600.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "五つの政策 知事に提言 埼玉大生 研究成果を熱弁 ／埼玉 - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ha1lzcFBPLUhDM09sbm9HUDlZOUV1VThLSnFNbzVNaUIzNW5xRFFNVk11bHd5emRvY3paTHZCV3NOcU5Md0hrY2UtVWszLThtR3lRM05peUItSnROdlVOT0VPVzFQRGtEUkM5SERMYw?oc=5",
-      "summary": "五つの政策 知事に提言 埼玉大生 研究成果を熱弁 ／埼玉  毎日新聞",
-      "date": "2026-11-04T05:01:18+09:00",
-      "date_display": "2026/11/04 05:01",
-      "sort_key": 1793736078.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -200,94 +524,13 @@
       "sort_key": 1793736068.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "高知：サーファー高波攻める 黒潮で県知事杯大会 ：地域ニュース - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PUUpyY1BqdEljY2pzYmNWVFJzcXhDNnhmamg4SnNCdk1jVTBpWVE4X3ZDeFZjdzRkZ2hqS0tVcU5maXlTWlprZHFuMmpURlMwWmFtdzZ1Z1dNY21VZHpFd0JCemZSdzZEWWtpLVFtaWc?oc=5",
-      "summary": "高知：サーファー高波攻める 黒潮で県知事杯大会 ：地域ニュース  読売新聞",
+      "source": "Google ニュース検索:地方議会",
+      "title": "都道府県、上限なし海外視察16議会 16年度以降 旅費歯止め策不可欠 徳島県も上限に関するルールなし - 徳島新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91MjFKVU1sY042RTVNN0I4ckhwanJEWEhZUHVCSzd6RUN6SzRpOWxyQlNfWmJLbDRwWnU5LXpmM3FtUF9ZRExHYTBaSlM3OTdxU1p1ZXV3?oc=5",
+      "summary": "都道府県、上限なし海外視察16議会 16年度以降 旅費歯止め策不可欠 徳島県も上限に関するルールなし  徳島新聞デジタル",
       "date": "2026-11-04T05:00:00+09:00",
       "date_display": "2026/11/04 05:00",
       "sort_key": 1793736000.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "若者の東京流出防げ 中部圏知事会議、地方大学の機能強化など国に提言へ：ニュース - 中日BIZナビ",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tVzJSbW5TeldVei1EdkdoSUhWMzBxMHM3QVhnY0k4U1BWMTRTdXJyUkpBZmF0b0phSGdvaExxdUFsMWhOXzNjUURkS0FkQlEzSmlCSGlWVWFLY3NHNWxJ?oc=5",
-      "summary": "若者の東京流出防げ 中部圏知事会議、地方大学の機能強化など国に提言へ：ニュース  中日BIZナビ",
-      "date": "2026-11-04T04:57:13+09:00",
-      "date_display": "2026/11/04 04:57",
-      "sort_key": 1793735833.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "【知事賞】『讃岐うどん最中』が令和8年度かがわ県産品コンクールで最優秀賞を受賞 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KcVRUVkdOMWlHTk5taXJtUG1jQ3pBTmVsemZOdmNRbmJrRmk2ckFrOG9JUlFuX2N1YVpHMHNWWXRIR1JyTUpkWXltNEJoVXo2ZkxYUE5ZUjZpOE1HMWpJVlRxMXl6aXVaMTFVMU1XQy0?oc=5",
-      "summary": "【知事賞】『讃岐うどん最中』が令和8年度かがわ県産品コンクールで最優秀賞を受賞  山陽新聞",
-      "date": "2026-11-04T04:13:11+09:00",
-      "date_display": "2026/11/04 04:13",
-      "sort_key": 1793733191.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "知事動静＝３日｜四国新聞WEB朝刊 - 四国新聞",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VTXBMYkN6b3JoZXNYVFBQc1VKaW1ud1FsazZsNFd6eGZLQk9tcl9nZ09UMG1xU2FXZGl4MUxZRFBTZDI0bmZDVDRtOWZWNjJNSFRIMm5VMURPMzRBeHVsN0lHakxOalp2R2I4a1Y1WmMxV05BZHfSAXxBVV95cUxONkFMTEgxV2hGNUVuczNEa3EtcE9LRHJoUUNaOW92R19BYW9rWVJOLUY2bmpBU2t1MUdSV1A4ZXJFaFdUWWNVRDhrQVpYRlg0cTNnZDNlNnA3bVhXTzBQWFBvUTE1ZWlyTWgwQlB0U1FWTC0tclhXdm9nRk15?oc=5",
-      "summary": "知事動静＝３日｜四国新聞WEB朝刊  四国新聞",
-      "date": "2026-11-04T04:00:21+09:00",
-      "date_display": "2026/11/04 04:00",
-      "sort_key": 1793732421.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "「投票率50％割れ回避を」 網走市長選 市選管など啓発 - 北海道新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lRHBNNU0tZDRkSDZEV2NuclhiVkFtMFZqR29KdHAzT0hkSTN4Q2tycFkxS0lFU0k1QkRtTHN4alVEdWV1TWlXTW4tUnpnaVEtSF9acDliLVdvUQ?oc=5",
-      "summary": "「投票率50％割れ回避を」 網走市長選 市選管など啓発  北海道新聞デジタル",
-      "date": "2026-11-04T04:00:00+09:00",
-      "date_display": "2026/11/04 04:00",
-      "sort_key": 1793732400.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "2026福岡市長選（キービジュアル） - 繁華街の演説で順番待ち、離島で第一声も聴衆ゼロ… 福岡市長選、初の選挙に候補者あたふた - 写真・画像(1/1) - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kc0Q0WHV5NTZNekpibTdOTkEtOHUwa0xnREVmVG9iMDNsNHFYbWxzbEZHQWIwQV9iMTVPVTFNblN6NGFkb0xaaGJqazNNZjA4YWJBZGdrbw?oc=5",
-      "summary": "2026福岡市長選（キービジュアル） - 繁華街の演説で順番待ち、離島で第一声も聴衆ゼロ… 福岡市長選、初の選挙に候補者あたふた - 写真・画像(1/1)  西日本新聞me",
-      "date": "2026-11-04T03:00:00+09:00",
-      "date_display": "2026/11/04 03:00",
-      "sort_key": 1793728800.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "ラオス国民議会議長は、両戦線組織間の協力強化を提案した。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmNfd0NqZWs5bHhsLWJxU2w0SFY3dkczeUtJODhXRTkyYzAtSXYzTGJ3QWRiMUdmWlo1TzVreEZuREZmTlVCWEZqT1FGc2xvbkVnVVRMMzlJQUppSTFlOVk4QXp1RW1XSXViN1A4ZnZId09CUzRjcDhsMzVtS2FWZXV4ckQ2NUtoTlVaMFhzOFh3NnU5X3c3MS1Jem92aWs1R3c?oc=5",
-      "summary": "ラオス国民議会議長は、両戦線組織間の協力強化を提案した。  Vietnam.vn",
-      "date": "2026-11-04T01:43:05+09:00",
-      "date_display": "2026/11/04 01:43",
-      "sort_key": 1793724185.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "中央委員会事務局常任委員のトラン・カム・トゥ氏は、ラオス国民議会議長のソネサイ・シパンドン氏と会談した。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUdTaHpMcmFTNHkwQ2Nvc0hRQ1dVMVU5dWV5Y2YzQzh4WXNrTUppU0xYd1dfQ3N3UWZXcGVtb242cFpCN3lXd3RSWF9TazJPM0FpeTNVSDhmNWRPd1lzcDM1cFFkbGhQRzZyemxyRk1aWTY3Zm00V0RIbElpRTlEX2xab3JQOXltSHJQWTFUcUtjc2xWRDNlV0RIdkpQS2FKZU5MN3pzNzVWQVEtd1JV?oc=5",
-      "summary": "中央委員会事務局常任委員のトラン・カム・トゥ氏は、ラオス国民議会議長のソネサイ・シパンドン氏と会談した。  Vietnam.vn",
-      "date": "2026-11-04T01:15:50+09:00",
-      "date_display": "2026/11/04 01:15",
-      "sort_key": 1793722550.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "令和8年度静岡県知事表彰式 - 公明党",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZOGcwUTJHRkdzRnlpVjFaYkJpcThvTGNUM1doU2VmOUgzUnVUek5IUFczQU12bkREUTRxU05SaDN0N29IT0pBZzRfb2JMZFYxZWZzNU02bS12QXY4VUxVV3VYbng?oc=5",
-      "summary": "令和8年度静岡県知事表彰式  公明党",
-      "date": "2026-11-04T00:04:19+09:00",
-      "date_display": "2026/11/04 00:04",
-      "sort_key": 1793718259.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "４日から選挙公報が発送・・・熊本市長選｜くま経 フォトレポート - くまもと経済",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzhDNExEbExYU0ROY0NlMk9EbHp6R3ctek53aDNtZWtwNDZNRFlmNzJMODR1TXZEYjhCLXh0cGJXaFQ4YWJCTXFQbGpJVU1nWW1BV0YybW9BYzRrb0JSaHVfSl83alRSSVk2RmNyYjFOVUhzVWI2Rjc0aGMwaDVmUUZ2bkFKWE1sQlZVY3d6UVZkY3lzeFNrTXoxVWVwdkVsZzNja2poNWYzcno5?oc=5",
-      "summary": "４日から選挙公報が発送・・・熊本市長選｜くま経 フォトレポート  くまもと経済",
-      "date": "2026-11-04T00:00:11+09:00",
-      "date_display": "2026/11/04 00:00",
-      "sort_key": 1793718011.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -299,24 +542,6 @@
       "sort_key": 1793718000.0
     },
     {
-      "source": "Google ニュース検索:地方議会",
-      "title": "議会間協力は、ベトナムとラオスの関係における重要な柱である。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONG9pODhGX3BReU1YeHJLeG1qSjEyWDRvdGoyd0RLZFBPaGlkVFJVTldHajMwT3U0eDlFamhvSXRpM3paenZELXRNbmF5MktCTmZlUU1CV194TFM0dWtPUjZTVjBmcGlXNjA4OXBiX2p2TFZLdGtSR3Jjd2NIekV6TEczTWFNR0wtRDE4NTNvZ2swNW9lS0E?oc=5",
-      "summary": "議会間協力は、ベトナムとラオスの関係における重要な柱である。  Vietnam.vn",
-      "date": "2026-11-03T23:55:17+09:00",
-      "date_display": "2026/11/03 23:55",
-      "sort_key": 1793717717.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "ベトナムの党および国家指導者らが、ラオス国民議会議長と会談した。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEFDZXRwdVh1UVFoQ2dJb0xCX1NRRFlDN2hYcXlONFp5dFVNbm1KSWFlM0FVZkYwZTgyU0hFSXpmcXNscXpFY3ozd0E0bzRmVFNxcWNGZnBUVTZVWWhnVGk1aFI0VjZOVjhISmRlTUQxenltLWpwSlFHc28wWUhEdUxyelRpbjhhSGE3Sg?oc=5",
-      "summary": "ベトナムの党および国家指導者らが、ラオス国民議会議長と会談した。  Vietnam.vn",
-      "date": "2026-11-03T23:16:33+09:00",
-      "date_display": "2026/11/03 23:16",
-      "sort_key": 1793715393.0
-    },
-    {
       "source": "Yahoo!ニュース 国内",
       "title": "夫婦漫才で安保広報に工夫 政府",
       "link": "https://news.yahoo.co.jp/pickup/6601229?source=rss",
@@ -324,15 +549,6 @@
       "date": "2026-11-03T23:03:56+09:00",
       "date_display": "2026/11/03 23:03",
       "sort_key": 1793714636.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "憲法公布から８０年、改憲・護憲両派が「憲法について考える」催し (読売新聞オンライン) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDZJRFZUMVc5MGFFc0hhSm5wV1JOOFg4bEdrWmJ6WTNpT1UxT1VtdV9ZaF9sOWpGM1pwcnJud3hxdk1TYUI4TmJhNmlJYkpIWmdRME95OVNzaGN5d1BMeXRrcEtJRmppVzZmZ2J6dHRhQ1U2dHhnQWo2a2RZUnR3MXdieTNmUEt2VDNlZ0NR?oc=5",
-      "summary": "憲法公布から８０年、改憲・護憲両派が「憲法について考える」催し (読売新聞オンライン)  Yahoo!ニュース",
-      "date": "2026-11-03T22:58:01+09:00",
-      "date_display": "2026/11/03 22:58",
-      "sort_key": 1793714281.0
     },
     {
       "source": "Google ニュース検索:地方議会",
@@ -380,78 +596,6 @@
       "sort_key": 1793707761.0
     },
     {
-      "source": "Google ニュース検索:知事",
-      "title": "香川県知事選 新人の姓納氏が出馬表明 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44V1ltcWd1U2oyeENPeFNhNjJsbVRIbnF2eHBySjZJdzBiM2NZc3JqdkR1c211M2U0WHctelFEVjFSdFAyZFNrejhMdWJ2TWZGekE?oc=5",
-      "summary": "香川県知事選 新人の姓納氏が出馬表明  山陽新聞",
-      "date": "2026-11-03T20:22:30+09:00",
-      "date_display": "2026/11/03 20:22",
-      "sort_key": 1793704950.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "「100年先まで絶景スポットを」鈴木知事が東部地域で「移動知事室」富士山を望む茶畑”大淵笹場”などで意見交換＝静岡県 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zZ2ozTFZyRmd5Q2ZOZGpjWnZ4YVZIaFY1YmJMUTVVN24zNndnRjFqZW5hWXl0bWhFb1VJc2RiWE9iSk9lX3dNNXAydGFxeFoxWHhyWkVPUjQ5Wm85cERz?oc=5",
-      "summary": "「100年先まで絶景スポットを」鈴木知事が東部地域で「移動知事室」富士山を望む茶畑”大淵笹場”などで意見交換＝静岡県  TBS NEWS DIG",
-      "date": "2026-11-03T20:00:00+09:00",
-      "date_display": "2026/11/03 20:00",
-      "sort_key": 1793703600.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "市民の関心は？庁舎問題、渋滞対策、物価高…100人に聞きました 熊本市長選 - KAB 熊本朝日放送",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kcE9wNVlaa2I2WFJtS2lNMm5ENjdmWWQwY0FnRWFiVVdlbVF4dDYxdHFvcW5rWE1XcnptdjZ4bGhHd0FDcUxvaHUyQ0xieVNRWmRka3BR?oc=5",
-      "summary": "市民の関心は？庁舎問題、渋滞対策、物価高…100人に聞きました 熊本市長選  KAB 熊本朝日放送",
-      "date": "2026-11-03T19:43:00+09:00",
-      "date_display": "2026/11/03 19:43",
-      "sort_key": 1793702580.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "第16期国民議会第2会期：資産評価の透明性および強制収用・資産徴発における市民の権利の保護。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTUdBVHJmRGJ6RTZ1dUpFMU1nR0hpdGh0bDNlUDFzeGl1V1N0blh3VTJpODZVUzh0MjJiSVlVQ3pBVUpEc3doWDhabmZ1UTdBVUFDV3N6WFpKZmJLMDNvY1N0Q0d0RHh1VUpfUVZKc2J6RTFXb00yUlJDTUxfdGlXUG5XU1lJbkc5dVBHV3VpcDhtaUV6UGt6ZGl5LXFfMUNRekx1NGl5eWtDbjYyWG9YbjVCRmZYbUNPUXRvYjRzNGtIZUl4cGxhTk1RcFc2Yy1EMkdOejJB?oc=5",
-      "summary": "第16期国民議会第2会期：資産評価の透明性および強制収用・資産徴発における市民の権利の保護。  Vietnam.vn",
-      "date": "2026-11-03T19:13:24+09:00",
-      "date_display": "2026/11/03 19:13",
-      "sort_key": 1793700804.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "自民党青森県連の津島淳会長「知事サイドと対話が必要」 知事選について県連は… | ABAニュース - ABA青森朝日放送",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBubkQ5MjFOb0NtVzF2cWp4dGtQYjdrUy1MMHdHTm5NUm1mWGs5d0dqazVPSjVTMzlvMi0yZXpPNGtDMUhOT19fYmItWDhMaXBual9vbXl3V0I?oc=5",
-      "summary": "自民党青森県連の津島淳会長「知事サイドと対話が必要」 知事選について県連は… | ABAニュース  ABA青森朝日放送",
-      "date": "2026-11-03T18:45:00+09:00",
-      "date_display": "2026/11/03 18:45",
-      "sort_key": 1793699100.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "旭日大綬章に三村申吾元知事 在任中は財政健全化に尽力 | ABAニュース - ABA青森朝日放送",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJYnd2dlhhUmZLYWNUTVFMTlZlcDFrQVVWYS1oa1V2Q2NIc0swb1BUc0pPVHUxWWFvSmVqcC1NaFBGODBLdVNuSUJVdS1WNnF1d2NoSEIzVTI?oc=5",
-      "summary": "旭日大綬章に三村申吾元知事 在任中は財政健全化に尽力 | ABAニュース  ABA青森朝日放送",
-      "date": "2026-11-03T18:45:00+09:00",
-      "date_display": "2026/11/03 18:45",
-      "sort_key": 1793699100.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "秋の叙勲 宮崎県内から39人が受章 元副知事の郡司行敏さんや元県議の横田照夫さんら｜ニュース - UMKテレビ宮崎",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KempUNHZsZUZiX2wydkw5MFdPZ3NQSDI1YWpRMFl2MWhuOGZpaS15R0ZVb2ZOOG5zeGZfYkxTeHZNUU1lMkNNZ0pjblJ2VXcxNGRSZWUtOXd5c3ZVVW1n?oc=5",
-      "summary": "秋の叙勲 宮崎県内から39人が受章 元副知事の郡司行敏さんや元県議の横田照夫さんら｜ニュース  UMKテレビ宮崎",
-      "date": "2026-11-03T18:15:00+09:00",
-      "date_display": "2026/11/03 18:15",
-      "sort_key": 1793697300.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "「フランクなイメージができた」福岡市長選期日前投票所で高校生が選挙事務体験｜放送内容｜ぎゅっと - KBC九州朝日放送",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94N01EVW5lVzNaU0wxWFUwS1RiYVV2dVFRa1NrQk01MkFtRWZPcjhHUlBsSGFTMGU5cjYzZ1pINk1MVUQ5WmZ0SnNNVHBCNmNya083THBJOW1NZw?oc=5",
-      "summary": "「フランクなイメージができた」福岡市長選期日前投票所で高校生が選挙事務体験｜放送内容｜ぎゅっと  KBC九州朝日放送",
-      "date": "2026-11-03T18:10:06+09:00",
-      "date_display": "2026/11/03 18:10",
-      "sort_key": 1793697006.0
-    },
-    {
       "source": "Yahoo!ニュース 国内",
       "title": "盤上に虫 藤井竜王思わず席を立つ",
       "link": "https://news.yahoo.co.jp/pickup/6601201?source=rss",
@@ -461,123 +605,6 @@
       "sort_key": 1793696992.0
     },
     {
-      "source": "Google ニュース検索:市長選",
-      "title": "過去最多13人の候補たち 選挙戦初日に何を訴えた？ 第一声②【福岡市長選2026】 - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWlYcWJRSjVnMlFWRmxLM3RwVzY1TVZic0FHckJjUmt5bC1wN3FwRWpQMk9kNWFPZXNScWR6Z2NZZ1BxMVpIQW9GaTJsdXdJQTdWUGs4SW9jMmVlUDlBTVdWOW9EX05VbkZhR1BrWnE0cmJndjNkbGljWE5lZ1VLemhNWndKS0s4?oc=5",
-      "summary": "過去最多13人の候補たち 選挙戦初日に何を訴えた？ 第一声②【福岡市長選2026】  日テレNEWS NNN",
-      "date": "2026-11-03T18:05:01+09:00",
-      "date_display": "2026/11/03 18:05",
-      "sort_key": 1793696701.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "玉城デニー前沖縄県知事「戦争は絶対にさせない、憲法の下、大きな声に」 国会前で1万4000人デモ - 東京新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LajdjTU5KZHl2WmpvRFk2TGdITTN3a1FhcWg4bmFNYU9scWxZUW1tOU9MYlhrQUM1UHViQ3gxeVl6dG9zMWZQLXpyQUU4Um9UTFdj?oc=5",
-      "summary": "玉城デニー前沖縄県知事「戦争は絶対にさせない、憲法の下、大きな声に」 国会前で1万4000人デモ  東京新聞",
-      "date": "2026-11-03T17:53:50+09:00",
-      "date_display": "2026/11/03 17:53",
-      "sort_key": 1793696030.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "13人立候補の福岡市長選 現職・高島氏の発言から見える「争点」 人口増で…地価上昇への対策は 鉄道・道路の混雑緩和策は - 福岡TNCニュース",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXeG5BaWRJazZNNzVQRmV3d1FiSXotdlJxYTFHYVZfVmx2XzJzdVctT2lGZFJHSU1VN0tVaHI5MUozeDJRRnBHS1dsTXplT0NibHVWckFVMXM2ajk0MVh1UlNsTQ?oc=5",
-      "summary": "13人立候補の福岡市長選 現職・高島氏の発言から見える「争点」 人口増で…地価上昇への対策は 鉄道・道路の混雑緩和策は  福岡TNCニュース",
-      "date": "2026-11-03T17:50:14+09:00",
-      "date_display": "2026/11/03 17:50",
-      "sort_key": 1793695814.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "現職に新人4人が挑む熊本市長選「現職の実績をどう評価するか」政治学者の注目ポイント - KAB 熊本朝日放送",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xajk3ZXR4WU1yTEFOeFFRWkhNUXNtbTdaSGNUQ1dNQmtLOEZLQXJIMnY4R2hIZk4xV0owTEV1c19kbk9Bdm5qazNfZFIwcVJEaUpHSDFB?oc=5",
-      "summary": "現職に新人4人が挑む熊本市長選「現職の実績をどう評価するか」政治学者の注目ポイント  KAB 熊本朝日放送",
-      "date": "2026-11-03T17:23:00+09:00",
-      "date_display": "2026/11/03 17:23",
-      "sort_key": 1793694180.0
-    },
-    {
-      "source": "Google ニュース検索:知事",
-      "title": "接戦制し古謝氏が最多得票 沖縄県知事選に合わせた「こども選挙」 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wb1EzamlySlZ0V05zYTZWUHpPWmRrb0VGdU1GMVNsSXlyQWE1enFrY015M0pBNUg1OVVZNjhGT0oxRzZQRFRNd2V5WnVyeHUyMFJJN013WQ?oc=5",
-      "summary": "接戦制し古謝氏が最多得票 沖縄県知事選に合わせた「こども選挙」  TBS NEWS DIG",
-      "date": "2026-11-03T16:12:00+09:00",
-      "date_display": "2026/11/03 16:12",
-      "sort_key": 1793689920.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "第12回日台交流サミット、名古屋で開催 頼清徳総統「運命共同体」を強調、 神戸市議が中国側の圧力を指摘 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TM05lSEs3R3VGMG1fZmtsTGZDWk1SWnBhMVFxT0ZvbU04SVFCN3J5TEhqOXN6N0xxcVgtRkRaRWI3TExBN0JkNUdMV25MYm1H?oc=5",
-      "summary": "第12回日台交流サミット、名古屋で開催 頼清徳総統「運命共同体」を強調、 神戸市議が中国側の圧力を指摘  風傳媒",
-      "date": "2026-11-03T15:54:00+09:00",
-      "date_display": "2026/11/03 15:54",
-      "sort_key": 1793688840.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "〚地方議会議員の皆様へ〛友人の#村上明雄先生の議員セミナーの追加日程が決まりました。 - 選挙ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SEdYcjZ3NDN3ZzMzRzR3ZG4xVlNLdkV2NFRZaE1HWTdZNVktU0JRbGZYSXR0TWJIOEpYbFJDcnhMZi1uOXFVXzdYOUhzM2RTajdQMTUtUXBUeWFFeHhv?oc=5",
-      "summary": "〚地方議会議員の皆様へ〛友人の#村上明雄先生の議員セミナーの追加日程が決まりました。  選挙ドットコム",
-      "date": "2026-11-03T15:43:46+09:00",
-      "date_display": "2026/11/03 15:43",
-      "sort_key": 1793688226.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "ラオス国民議会議長夫妻の歓迎式典。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51ZHNJbkpmU2tUcWxQZG84d0hDT2s2ZXZyaHp0SHF1R0hIcU9qV0hVM2xjZ0tZRTJNU0N4UDA4eWRJZmF6ZW1HOTAzVkpmOHpGcE9iZktVZWtxZEZERG9IdDVvaVZFdHZ2M09Zb1hqUEFjUkhC?oc=5",
-      "summary": "ラオス国民議会議長夫妻の歓迎式典。  Vietnam.vn",
-      "date": "2026-11-03T15:31:48+09:00",
-      "date_display": "2026/11/03 15:31",
-      "sort_key": 1793687508.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "網走市長選 投票率向上へ街頭啓発 市選管など買い物客に呼びかけ 「50％割れ回避したい」 - 北海道新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSXhUZ2plZEdWeHNlMm5JUmhuX1MxdnhhODllaG90UW5LbFliLXNXOXRvaUZFUWV5SHVZc3RkU0owX2JscmY4RUhHel93S2FneVpmdjJON2luQQ?oc=5",
-      "summary": "網走市長選 投票率向上へ街頭啓発 市選管など買い物客に呼びかけ 「50％割れ回避したい」  北海道新聞デジタル",
-      "date": "2026-11-03T14:36:35+09:00",
-      "date_display": "2026/11/03 14:36",
-      "sort_key": 1793684195.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "制約を取り除き、地方自治体の指導者に真の主体性を発揮させる。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVBpVzU2VHlOMmxteUR3YUo2UF9Qa2pERi1LeVNYdU5sR0dZOHEwMng2aklBS3hJMldDMjJVTnFld3RDR2dzdFZQeEJaeDdEc05YSVk0OGF4dkN4MkJxZm04ZERHLURnV29EWGtGUjN5X2p1aVdVLUxEQjFtSElaeHlQLXhSZzFrTk4tWmR3bzVhQ1hVVkE3NHRKb2hxV2RHb2xEUzdrekI?oc=5",
-      "summary": "制約を取り除き、地方自治体の指導者に真の主体性を発揮させる。  Vietnam.vn",
-      "date": "2026-11-03T14:18:09+09:00",
-      "date_display": "2026/11/03 14:18",
-      "sort_key": 1793683089.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "日台交流サミット歓迎交流会、名古屋で開催 古屋圭司氏が「台湾」表記是正の成果を報告 | 黃信維（コウ・シンイ） | ニュース - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsaDlxRUs1OFV0Z2Y3b0duWVFzNzJ1MnhVOTZyQllBSkl3VGdFX3E5M016Z0JTeWo5SWFrVU1WZ2VBbDZYUzE2THkxcDUxRV84?oc=5",
-      "summary": "日台交流サミット歓迎交流会、名古屋で開催 古屋圭司氏が「台湾」表記是正の成果を報告 | 黃信維（コウ・シンイ） | ニュース  風傳媒",
-      "date": "2026-11-03T14:13:00+09:00",
-      "date_display": "2026/11/03 14:13",
-      "sort_key": 1793682780.0
-    },
-    {
-      "source": "Google ニュース検索:地方議会",
-      "title": "地方自治体レベルにおける財産の徴発および押収権限の明確化。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFLbTJmblR0Z3lNM295dFNTNVhobGxEU3M1MTk3T3dXdDdMZEdCVjBRaFgtS0hQczJhanhXS3g0bFJ1UmVsdV9lemk2UHVqR0N3c3B0UnV3dzhrMkdBMk5WMXBjS2MzMzRDdWsxbDhsaWdaLTZWd0dXWENGYXNKREVNZWRqcnlN?oc=5",
-      "summary": "地方自治体レベルにおける財産の徴発および押収権限の明確化。  Vietnam.vn",
-      "date": "2026-11-03T13:24:22+09:00",
-      "date_display": "2026/11/03 13:24",
-      "sort_key": 1793679862.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "「若い世代にも選挙への関心を」福岡市長選期日前投票所で高校生が選挙事務作業を体験 - KBC九州朝日放送",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfN2JkOEh1ZFdPeXVnd09JdzBjSkNkVW5Uc1k2SG01dmh6N3NjNTNjc1R3cE5yVV9vTUpoOEF1YzZsLWg0WnJZbXNkdjZtc3dsUUZPcENvYVJNMDZ4ZHJCRmdvS21NWVN5UjNaYV9n?oc=5",
-      "summary": "「若い世代にも選挙への関心を」福岡市長選期日前投票所で高校生が選挙事務作業を体験  KBC九州朝日放送",
-      "date": "2026-11-03T12:23:00+09:00",
-      "date_display": "2026/11/03 12:23",
-      "sort_key": 1793676180.0
-    },
-    {
       "source": "Yahoo!ニュース 国内",
       "title": "親と縁切る「家族じまい」相談増",
       "link": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
@@ -585,33 +612,6 @@
       "date": "2026-11-03T10:44:22+09:00",
       "date_display": "2026/11/03 10:44",
       "sort_key": 1793670262.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "平和守れの声大きく/愛媛県知事選 和田候補を白川氏応援/国いいなりの県政変えよう | しんぶん赤旗 - 日本共産党",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wcTBSbk1mZGFyWk1XUVZRbE1UZ183QTBTa1JVb0JpYVRNVEJDcGVJS0RuRjROMlhlZk0tSjB6RUZ4UUhIZXBZUjVtSURwTS1VOXEtV0xIVHhNUGd2VDdCYUU4d0RSWVdOY2h5UTBMcllmd3B2?oc=5",
-      "summary": "平和守れの声大きく/愛媛県知事選 和田候補を白川氏応援/国いいなりの県政変えよう | しんぶん赤旗  日本共産党",
-      "date": "2026-11-03T09:15:27+09:00",
-      "date_display": "2026/11/03 09:15",
-      "sort_key": 1793664927.0
-    },
-    {
-      "source": "Yahoo!ニュース 国内",
-      "title": "トランプ政権に「共感」日本で23%",
-      "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
-      "summary": "",
-      "date": "2026-11-03T09:06:45+09:00",
-      "date_display": "2026/11/03 09:06",
-      "sort_key": 1793664405.0
-    },
-    {
-      "source": "Google ニュース検索:市長選",
-      "title": "奈良県知事選で「与党対決」？ 候補者選び悩める自民、一本化なるか - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qa1lCZEVQUFoxUFlTUndpUzVZVjFCUXIzNEtWWkZzNzBfd0RpYkRtTF81SEpmOEpoYzUzV2ZzcXptcnVSOHpoMW5ON1Z0bjBVcjVrTW1STFhZNl8xRlZzTndQX1c5NTg?oc=5",
-      "summary": "奈良県知事選で「与党対決」？ 候補者選び悩める自民、一本化なるか  朝日新聞",
-      "date": "2026-11-03T08:30:00+09:00",
-      "date_display": "2026/11/03 08:30",
-      "sort_key": 1793662200.0
     },
     {
       "source": "NHKニュース 政治",
